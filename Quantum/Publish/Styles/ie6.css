@@ -1,0 +1,11 @@
+button { 
+	width:auto; 
+	overflow:visible; 
+}
+button span { margin-top:1px; }
+#header .nav { margin-top: 0; }
+#header .nav ul { margin: 22px 0 0 0; padding: 0; }
+#userinfo { line-height: 16px; }
+.setting-top { margin: 0 0 -7px 0; }
+/* 03/10 fix for button padding */
+.submitbutton { overflow: visible; }

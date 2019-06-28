@@ -1,0 +1,69 @@
+C:\Users\admin\OneDrive\Files\My Software - vs2010 - Quantum\Quantum\Quantum\bin\Quantum.dll
+C:\Users\admin\OneDrive\Files\My Software - vs2010 - Quantum\Quantum\Quantum\bin\Quantum.pdb
+C:\Users\admin\OneDrive\Files\My Software - vs2010 - Quantum\Quantum\Quantum\bin\megaswfLibrary.dll
+C:\Users\admin\OneDrive\Files\My Software - vs2010 - Quantum\Quantum\Quantum\bin\Brettle.Web.NeatUpload.dll
+C:\Users\admin\OneDrive\Files\My Software - vs2010 - Quantum\Quantum\Quantum\bin\Textile.dll
+C:\Users\admin\OneDrive\Files\My Software - vs2010 - Quantum\Quantum\Quantum\bin\Newtonsoft.Json.dll
+C:\Users\admin\OneDrive\Files\My Software - vs2010 - Quantum\Quantum\Quantum\bin\megaswfLibrary.pdb
+C:\Users\admin\OneDrive\Files\My Software - vs2010 - Quantum\Quantum\Quantum\obj\Debug\Quantum.csprojResolveAssemblyReference.cache
+C:\Users\admin\OneDrive\Files\My Software - vs2010 - Quantum\Quantum\Quantum\obj\Debug\Quantum.dll
+C:\Users\admin\OneDrive\Files\My Software - vs2010 - Quantum\Quantum\Quantum\obj\Debug\Quantum.pdb
+C:\Users\admin\Desktop\Quantum\Quantum\bin\Quantum.dll.config
+C:\Users\admin\Desktop\Quantum\Quantum\bin\Quantum.dll
+C:\Users\admin\Desktop\Quantum\Quantum\bin\Quantum.pdb
+C:\Users\admin\Desktop\Quantum\Quantum\obj\Debug\Quantum.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Quantum\Quantum\obj\Debug\Quantum.dll
+C:\Users\admin\Desktop\Quantum\Quantum\obj\Debug\Quantum.pdb
+C:\Users\admin\Desktop\Cofounder\Quantum\bin\Quantum.dll.config
+C:\Users\admin\Desktop\Cofounder\Quantum\bin\Quantum.dll
+C:\Users\admin\Desktop\Cofounder\Quantum\bin\Quantum.pdb
+C:\Users\admin\Desktop\Cofounder\Quantum\obj\Debug\Quantum.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Cofounder\Quantum\obj\Debug\Quantum.dll
+C:\Users\admin\Desktop\Cofounder\Quantum\obj\Debug\Quantum.pdb
+C:\Users\admin\Desktop\Cofounder\Quantum\bin\QuantumLibrary.dll
+C:\Users\admin\Desktop\Cofounder\Quantum\bin\Google.Apis.YouTube.v3.dll
+C:\Users\admin\Desktop\Cofounder\Quantum\bin\Brettle.Web.NeatUpload.dll
+C:\Users\admin\Desktop\Cofounder\Quantum\bin\Newtonsoft.Json.dll
+C:\Users\admin\Desktop\Cofounder\Quantum\bin\Google.Apis.dll
+C:\Users\admin\Desktop\Cofounder\Quantum\bin\Textile.dll
+C:\Users\admin\Desktop\Cofounder\Quantum\bin\Google.Apis.Core.dll
+C:\Users\admin\Desktop\Cofounder\Quantum\bin\QuantumLibrary.pdb
+C:\Users\admin\Desktop\Cofounder\Quantum\bin\Newtonsoft.Json.xml
+E:\work\coFounder\CoFounders20181109_Code\Cofounder\Quantum\obj\Debug\Quantum.csprojResolveAssemblyReference.cache
+E:\work\coFounder\CoFounders20181109_Code\Cofounder\Quantum\obj\Debug\Quantum.dll
+E:\work\coFounder\CoFounders20181109_Code\Cofounder\Quantum\obj\Debug\Quantum.pdb
+D:\work\coFounder\CoFounders20181109_Code\Cofounder\Quantum\obj\Debug\Quantum.csprojResolveAssemblyReference.cache
+D:\work\coFounder\CoFounders20181109_Code\Cofounder\Quantum\obj\Debug\Quantum.dll
+D:\work\coFounder\CoFounders20181109_Code\Cofounder\Quantum\obj\Debug\Quantum.pdb
+C:\Users\eli\Downloads\Quantum\Quantum\obj\Debug\Quantum.csprojResolveAssemblyReference.cache
+C:\Users\eli\Downloads\Quantum\Quantum\obj\Debug\Quantum.dll
+C:\Users\eli\Downloads\Quantum\Quantum\obj\Debug\Quantum.pdb
+C:\Users\eli\Desktop\Cofounder\Quantum\bin\Quantum.dll.config
+C:\Users\eli\Desktop\Cofounder\Quantum\bin\Quantum.dll
+C:\Users\eli\Desktop\Cofounder\Quantum\bin\Quantum.pdb
+C:\Users\eli\Desktop\Cofounder\Quantum\bin\Brettle.Web.NeatUpload.dll
+C:\Users\eli\Desktop\Cofounder\Quantum\bin\QuantumLibrary.dll
+C:\Users\eli\Desktop\Cofounder\Quantum\bin\Google.Apis.YouTube.v3.dll
+C:\Users\eli\Desktop\Cofounder\Quantum\bin\Google.Apis.dll
+C:\Users\eli\Desktop\Cofounder\Quantum\bin\Textile.dll
+C:\Users\eli\Desktop\Cofounder\Quantum\bin\Google.Apis.Core.dll
+C:\Users\eli\Desktop\Cofounder\Quantum\bin\QuantumLibrary.pdb
+C:\Users\eli\Desktop\Cofounder\Quantum\obj\Debug\Quantum.csprojResolveAssemblyReference.cache
+C:\Users\eli\Desktop\Cofounder\Quantum\obj\Debug\Quantum.dll
+C:\Users\eli\Desktop\Cofounder\Quantum\obj\Debug\Quantum.pdb
+E:\Arsip coufounder\Cofounder 20190109 Code\Cofounder\Quantum\bin\Quantum.dll.config
+E:\Arsip coufounder\Cofounder 20190109 Code\Cofounder\Quantum\bin\Quantum.dll
+E:\Arsip coufounder\Cofounder 20190109 Code\Cofounder\Quantum\bin\Quantum.pdb
+E:\Arsip coufounder\Cofounder 20190109 Code\Cofounder\Quantum\bin\Brettle.Web.NeatUpload.dll
+E:\Arsip coufounder\Cofounder 20190109 Code\Cofounder\Quantum\bin\QuantumLibrary.dll
+E:\Arsip coufounder\Cofounder 20190109 Code\Cofounder\Quantum\bin\Google.Apis.YouTube.v3.dll
+E:\Arsip coufounder\Cofounder 20190109 Code\Cofounder\Quantum\bin\Google.Apis.dll
+E:\Arsip coufounder\Cofounder 20190109 Code\Cofounder\Quantum\bin\Textile.dll
+E:\Arsip coufounder\Cofounder 20190109 Code\Cofounder\Quantum\bin\Google.Apis.Core.dll
+E:\Arsip coufounder\Cofounder 20190109 Code\Cofounder\Quantum\bin\QuantumLibrary.pdb
+E:\Arsip coufounder\Cofounder 20190109 Code\Cofounder\Quantum\bin\QuantumLibrary.dll.config
+E:\Arsip coufounder\Cofounder 20190109 Code\Cofounder\Quantum\obj\Debug\Quantum.csprojAssemblyReference.cache
+E:\Arsip coufounder\Cofounder 20190109 Code\Cofounder\Quantum\obj\Debug\Quantum.csproj.CoreCompileInputs.cache
+E:\Arsip coufounder\Cofounder 20190109 Code\Cofounder\Quantum\obj\Debug\Quantum.csproj.CopyComplete
+E:\Arsip coufounder\Cofounder 20190109 Code\Cofounder\Quantum\obj\Debug\Quantum.dll
+E:\Arsip coufounder\Cofounder 20190109 Code\Cofounder\Quantum\obj\Debug\Quantum.pdb

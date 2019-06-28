@@ -1,0 +1,149 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Blog.master.cs" %>
+
+<!DOCTYPE html>
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="description" content="">
+<meta name="author" content="">
+<title>Co-Founder's Network</title>
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+<link href="./Co-founders Netwrok_files/bootstrap-4.1.3.css" rel="stylesheet">
+
+</head>
+	<body style="overflow-x: hidden;">
+        <form id="form2" runat="server">
+	<!-- Header -->
+
+
+
+<div style="z-index: 1000; position: fixed; top: 0px; left: 0px; display: block; width: 100%; height: 65px; background: #fff; padding: 10px;">
+	
+	<div class="row" style="position: relative;">
+		<div class="col-md-3 col-sm-3 col-xs-6">
+			<a href="default.aspx"><img src="./Co-founders Netwrok_files/logo.png" style="height: 38px;"></a>
+		</div>
+			<div style="clear: both;"></div>
+		</div>
+               
+	</div>
+</div>
+
+    <br /><br /><br /><br />
+    <asp:contentplaceholder id="Content" runat="server"></asp:contentplaceholder>
+	<br /><br /><br /><br />
+	<div style="position: relative; color: #f6f6f6; background: #e1e1e1; width: 100%; padding: 30px; ">
+		<div class="row" style="margin-bottom: 50px;" >
+			<div class="col-md-6 col-sm-6 col-xs-12">
+				<p style="list-style: none; color: #34a4ae; font-weight: bold;">
+					Co-Founders Networks
+				</p>
+				<p style="color: #535456; margin-top: -10px;">As of 2018, our community is small but verified users who have professional skills that can help you. Our users are real people that you can communicate, meet, engage and build your empire together. We aim to help people innovate, create strategic alliances and match the right investments. </p>
+			</div>
+			<div class="col-md-2 col-sm-2 col-xs-12">
+				<ul>
+					<li style="list-style: none; color: #34a4ae; font-weight: bold;">
+						Quick Links
+					</li>
+					<li style="list-style: none;">
+						<a href="About.aspx" id="app_footer_nav_about" style="color: #535456;">About Us</a>
+					</li>
+					<li style="list-style: none;">
+						<a href="Project_Search.aspx" id="app_footer_nav_project" style="color: #535456;">Projects</a>
+					</li>
+					<li style="list-style: none;">
+						<a href="User_Search.aspx" id="app_footer_nav_network" style="color: #535456;">Networks</a>
+					</li>
+					<li style="list-style: none;">
+						<div id="app_footer_nav_contact" style="color: #535456;cursor: pointer;">Contact</div>
+					</li>
+				</ul>
+			</div>
+			<div class="col-md-2 col-sm-2 col-xs-12">
+				<ul>
+					<li style="list-style: none; color: #34a4ae; font-weight: bold;">
+						Premium Member
+					</li>
+					<!-- <li style="list-style: none;">
+						<a href="http://old.cofoundersnetwork.com/Pricing" id="app_footer_nav_price" style="color: #535456;">Pricing</a>
+					</li> -->
+										<li style="list-style: none;">
+						<a href="Signup.aspx" id="app_footer_nav_signup" style="color: #535456;">Join Us</a>
+					</li>
+									</ul>
+			</div>
+			<div class="col-md-2 col-sm-2 col-xs-12">
+				<ul>
+					<li style="list-style: none; color: #34a4ae; font-weight: bold;">
+						Social Media
+					</li>
+					<li style="list-style: none;">
+						<a href="https://facebook.com/cofoundersnetwork" target="_blank" style="color: #535456;">
+							<i class="fab fa-facebook"></i> facebook
+						</a>
+					</li>
+					<li style="list-style: none;">
+						<a href="https://instagram.com/cofoundersnetwork" target="_blank" style="color: #535456;">
+							<i class="fab fa-instagram"></i> instagram
+						</a>
+					</li>
+					<li style="list-style: none;">
+						<a href="https://twitter.com/cofoundersnet" target="_blank" style="color: #535456;">
+							<i class="fab fa-twitter"></i> twitter
+						</a>
+					</li>
+					<li style="list-style: none;">
+						<a href="https://linkedin.com/company/cofoundersnetwork" target="_blank" style="color: #535456;">
+							<i class="fab fa-linkedin-in"></i> linkedin
+						</a>
+					</li>
+				</ul>
+			</div>
+		</div>
+	
+	<script src="./Co-founders Netwrok_files/jquery-3.3.1.js"></script>
+	<script src="./Co-founders Netwrok_files/bootstrap-4.1.3.js"></script>
+	<!-- <script src="./Co-founders Netwrok_files/screen.js.download"></script>
+	<script src="./Co-founders Netwrok_files/navigation.js.download"></script>
+	<script src="./Co-founders Netwrok_files/resetter.js.download"></script>
+	<script src="./Co-founders Netwrok_files/accounting.js.download"></script> -->
+	
+	<!-- <script>
+		var assign_url = "https://cofoundersnetwork.com/Services";
+	</script> -->
+	
+	<!-- <script src="./Co-founders Netwrok_files/app_login.js.download"></script>  --> 
+            
+    <script type="text/javascript">
+    	var chatOpen = 0;
+    	$("#formChat").hide();
+		$("#closeChat").show();
+		$("#openChat").hide();
+    	$("#buttonChat").click(function(){
+    		if (chatOpen == 0) {//if chat form is close, then open chat form
+    			chatOpen = 1;
+    			$("#formChat").show();
+    			$("#closeChat").hide();
+    			$("#openChat").show();
+    		}else{//if chat form is open, then close chat form
+    			chatOpen = 0;
+    			$("#formChat").hide();
+    			$("#closeChat").show();
+    			$("#openChat").hide();
+    		}
+    	});
+    	$("#app_footer_nav_contact").click(function(){
+			chatOpen = 1;
+			$("#formChat").show();
+			$("#closeChat").hide();
+			$("#openChat").show();
+    	});
+    	$("#navContact").click(function(){
+			chatOpen = 1;
+			$("#formChat").show();
+			$("#closeChat").hide();
+			$("#openChat").show();
+    	});
+    </script>
+    </form>  
+</body>
+</html>

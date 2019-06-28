@@ -1,0 +1,8 @@
+/* opacity fix for top nav 04/09 */
+#tab-wrapper ul#home-nav li a:hover,
+#tab-wrapper ul#community-nav li a:hover,
+#tab-wrapper ul#dashboard-nav li a:hover,
+ul.home li a:hover,
+ul.community li a:hover,
+ul.dashboard li a:hover,
+ul.new-home li a:hover { filter: alpha(opacity = 40); }

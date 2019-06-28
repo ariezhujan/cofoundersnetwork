@@ -1,0 +1,5 @@
+/* top nav margin fix 04/09 */
+#tab-wrapper ul li a { margin: 0; padding: 0 1px 0 0; }
+
+/* homepage nav height fix 12/09 */
+#home-navbar-bg { overflow: hidden; }

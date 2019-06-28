@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "e:\\Arsip coufounder\\Cofounder 20190109 Code\\Cofounder\\Quantum\\Quantum.csproj",
+  "TargetFramework": "v4.5",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}

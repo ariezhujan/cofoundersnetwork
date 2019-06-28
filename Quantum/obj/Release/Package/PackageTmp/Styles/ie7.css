@@ -1,0 +1,14 @@
+button { 
+	width:auto; 
+	overflow:visible; 
+}
+button span { margin-top:2px; }
+#userinfo { line-height: 16px; }
+div#networkmenu { margin-top: 27px; }
+h2.settings {
+	line-height: 1.5;
+	margin-top: -6px;
+}
+span.networklabel { line-height: 1.5; }
+/* 03/10 fix for button padding */
+.submitbutton { overflow: visible; }

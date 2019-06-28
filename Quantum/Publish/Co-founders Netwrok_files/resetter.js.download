@@ -1,0 +1,27 @@
+function resetter(section){
+	
+	$("#app_register").fadeOut();
+	$("#app_register_1").fadeOut();
+	$("#app_register_2").fadeOut();
+	$("#app_register_3").fadeOut();
+	$("#app_register_4").fadeOut();
+	$("#app_register_5").fadeOut();
+	
+	
+	$("#app_popout_regdate").fadeOut();
+	$("#app_popout_regmonth").fadeOut();
+	$("#app_popout_regyear").fadeOut();
+	
+	$(section).fadeIn();
+}
+
+function popout(msg){
+	$("#app_popout").fadeIn();
+	$("#app_popout").css("display", "table");
+	$("#app_popout").css("z-index", 450000000);
+	$("#app_popout_state").html(msg);
+}
+
+$("#app_popout").click(function(){
+	$(this).fadeOut();
+});

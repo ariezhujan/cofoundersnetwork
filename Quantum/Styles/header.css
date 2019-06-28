@@ -1,0 +1,202 @@
+/* ---------- global header ---------- */
+
+#global-header { position: relative; width: 930px; margin: auto; z-index: 1000; height: 83px; }
+#global-header span { display: none; }
+#global-header h2, #global-header h3 { margin: 0; padding: 0; border: 0; }
+#global-header #logo-wrapper { float: left; width: 282px; height: 83px; z-index: 300; }
+#global-header #logo { float: left; background: #2c3034; }
+#global-header #logo a { display: block; width: 0px; height: 83px; text-decoration: none; }
+#global-header #logo a:hover { background: none; }
+#global-header #logo-slash { float: left; }
+#global-header #logo-slash a { display: block; width: 284px; height: 83px; text-decoration: none; }
+#global-header #logo-slash a:hover { background: none; }
+#global-header #nav-wrapper { float: left; width: 648px; }
+#global-header ul { list-style: none; margin: 0; padding: 0; }
+#global-header li { float: left; }
+
+/* account links */
+#global-header #account, #home-header #account { float: right; line-height: 10px; font-size: 10px; padding-top: 6px; color: #ccc; }
+#global-header #account a, #home-header #account a { color: #fff; }
+#global-header #account a:hover, #home-header #account a:hover { background: none; color: #999; text-decoration: underline; }
+
+/* top nav 04/09 */
+ul#top-nav {
+	height: 31px;
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+}
+ul#top-nav li { padding: 0; margin: 0; }
+ul.home { background: url(../img/nav_global.gif) no-repeat; }
+ul.dashboard { background: url(../img/nav_global.gif) no-repeat 0 -31px; }
+ul.community { background: url(../img/nav_global.gif) no-repeat 0 -62px; }
+ul.home, ul.dashboard, ul.community { height: 31px; }
+ul#top-nav li { display: inline; }
+ul#top-nav li a {
+	display: block;
+	height: 23px;
+}
+ul.home li a:hover, ul.community li a:hover { background: #4C555A; opacity: .4; }
+ul.dashboard li a:hover { background: #333; opacity: .4; }
+ul#top-nav li a.no-hover:hover { background: none; }
+ul#top-nav li a span { display: none; }
+
+/* tab nav 04/09 */
+#tab-wrapper { margin-top: 26px; }
+#tab-wrapper ul {
+	height: 26px;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	
+}
+#tab-wrapper ul#home-nav {margin-left: 130px;}
+#tab-wrapper ul#dashboard-nav {margin-left: 4px;}
+
+#tab-wrapper ul li { margin: 0; padding: 0; }
+#tab-wrapper ul li a {
+	display: block;
+	float: left;
+	height: 26px;
+	margin-right: 1px;
+}
+#tab-wrapper ul#home-nav li a:hover { background: #f70;	opacity: .4; }
+#tab-wrapper ul#community-nav li a:hover { background: #333; opacity: .4; }
+#tab-wrapper ul#dashboard-nav li a:hover { background: #666; opacity: .4; }
+#tab-wrapper ul#home-nav li a.no-hover:hover,
+#tab-wrapper ul#community-nav li a.no-hover:hover,
+#tab-wrapper ul#dashboard-nav li a.no-hover:hover { background: none; }
+#tab-wrapper ul li a span { display: none; }
+
+/* subnav bar */
+#subnav-bar { background: #ddd; border-bottom: 20px solid white; }
+#subnav-bar .nav { height: 30px; width: 930px; margin: auto; }
+#subnav-bar ul { list-style: none; margin: 0; padding: 0; }
+#subnav-bar li { float: left; font-size: 11px; padding: 0; line-height: 11px; margin: 0; }
+#subnav-bar li a { display: block; padding: 10px 8px; color: #2c3034; text-decoration: none; }
+#subnav-bar li.active { background: white; }
+#subnav-bar li.active a { font-weight: bold; color: #4c555a; }
+#subnav-bar a:hover { background: none; text-decoration: underline; }
+#subnav-bar li.active a:hover { text-decoration: none; }
+#subnav-bar .check-domain { float: right; font-size: 11px; margin-top: 7px; }
+
+#feedback {
+	position: absolute;
+	top: 0px;
+	right: 0;
+	border-left: 1px solid #66cc66;
+	border-bottom: 1px solid #66cc66;
+	padding: 10px;
+	background: #ddf6dd;
+	z-index: 3000;
+	text-align: left;
+	font-size: 11px;
+}
+
+/* alt home header 09/09 */
+#home-wrapper { width: 100%; }
+#home-fill-left, #home-fill-right {
+	position: absolute;
+	width: 50%;
+	height: 327px;
+	z-index: 0;
+}
+#home-fill-left { background: url(/img/home-fill-left.png) repeat; left: 0; }
+#home-fill-right { background: url(/img/home-fill-right.png) repeat; right: 0; }
+#home-header {
+	background: url(/img/home-header.png) no-repeat;
+	height: 327px;
+	width: 930px;
+	margin: auto;
+	position: relative;
+	z-index: 0;
+}
+#home-header #left-side {
+	float: left;
+	width: 268px;
+	height: 287px;
+	position: relative;
+}
+#home-header #right-side {
+	float: left;
+	width: 662px;
+	height: 287px;
+}
+#home-logo {
+	display: block;
+	position: absolute;
+	top: 25px;
+	left: 0;
+	width: 200px;
+	height: 80px;
+}
+#home-button {
+	display: block;
+	position: absolute;
+	top: 190px;
+	left: 0;
+	background: url(/img/home-button.png) no-repeat 0 2px;
+	width: 223px;
+	height: 65px;
+}
+#home-button:hover { background-position: 0 -70px; }
+#home-extra-left {
+	background: url(/img/home-extra.png) no-repeat 0 0;
+	position: absolute;
+	width: 55px;
+	height: 327px;
+	left: -55px;
+	top: 0px;
+	z-index: 1;
+}
+#home-extra-right {
+	background: url(/img/home-extra.png) no-repeat -55px 0;
+	position: absolute;
+	width: 55px;
+	height: 327px;
+	left: 930px;
+	top: 0px;
+	z-index: 1;
+}
+#home-topnav {
+	float: left;
+	height: 31px;
+	width: 319px;
+}
+ul.new-home li a:hover { background: #f70; opacity: .4; }
+#home-topnav li { float: left; }
+#home-topnav-extra {
+	float: left;
+	width: 343px;
+	text-align: right;
+	height: 31px;
+}
+#home-topnav-extra div#account { color: #2c3034; }
+#home-topnav-extra div#account a { color: #444; }
+#home-topnav-extra div#account a:hover { color: #fff; }
+#home-navbar {
+	position: absolute;
+	top: 287px;
+	left: 0;
+	width: 497px;
+	height: 40px;
+}
+#home-navbar-bg {
+	position: absolute;
+	top: 14px;
+	left: 0;
+	width: 497px;
+	height: 12px;
+	background: url(/img/home-navbar.png) no-repeat;
+}
+#home-navbar ul {
+	list-style-type: none;
+	position: absolute;
+	left: 0;
+}
+#home-navbar li { margin: 0; padding: 0; float: left; }
+#home-navbar a {
+	display: block;
+	height: 40px;
+}
+#home-navbar a span { display: none; }

@@ -1,0 +1,26 @@
+$("#app_headnav_bars").click(function(){
+	$("#app_mainnav_small").show();
+});
+
+$("#app_mainnav_small_close, .small_popnav").click(function(){
+	$("#app_mainnav_small").hide();
+});
+
+$("#header_big_nav_signin").click(function(){
+	$("#head_nav_login").css("display", "block");
+	
+	$("#app_login_email").val('');
+	$("#app_login_password").val('');
+});
+
+$("#head_nav_login, #header_big_nav_signin").click(function(i){
+	i.stopPropagation();
+});
+
+$(document).click(function(){
+	$("#head_nav_login").hide();
+});
+
+$(document).scroll(function(){
+	$("#head_nav_login").hide();
+});

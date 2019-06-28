@@ -1,0 +1,267 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage.master.cs" Inherits="Quantum.MasterPage" %>
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <meta name="description" content="">
+        <meta name="author" content="">
+        <title>Co-Founders Network</title>
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/css/materialize.min.css">
+        <%--<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">--%>
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+        <link href="https://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+        <link href="./libs/summernote/0.8.11/summernote-lite.css" rel="stylesheet">
+        <%--<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.13.2/css/bootstrap-select.min.css">--%>
+
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">  
+    
+        <%--<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>--%>
+        <script src="https://code.jquery.com/jquery-3.2.1.min.js" crossorigin="anonymous"></script>
+        <script src="./libs/summernote/0.8.11/summernote-lite.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+        <%--<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.13.2/js/bootstrap-select.min.js"></script>    --%>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.100.2/js/materialize.min.js"></script>  
+        <%--<script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>--%>
+
+        <script>
+         $(".button-collapse").sideNav();
+         $("select").material_select();
+        </script>  
+    
+        <script src="https://www.google.com/recaptcha/api.js" async defer></script>   
+
+        <%--<script type="application/javascript">
+          window.tiledeskSettings = 
+            {
+              projectid: "5c0498097608f10015378fb1",
+            };
+            (function(d, s, id) {
+              var js, fjs = d.getElementsByTagName(s)[0];
+              if (d.getElementById(id)) return;
+              js = d.createElement(s); js.id = id; //js.async=!0;
+              js.src = "https://widget.tiledesk.com/tiledesk.js";
+              fjs.parentNode.insertBefore(js, fjs);
+            }(document, 'script', 'tiledesk-jssdk'));
+        </script>--%>
+
+        <style>
+           .prefix ~ .select-wrapper {
+               margin-left: inherit !important;
+               width: 100%;
+           }
+           .caret{
+             color:white !important;
+           }
+            td, th{
+                padding-top:0px;
+                padding-bottom:5px;
+            }
+            body {
+                margin: 0;
+                padding: 0;
+            }
+            .plc::-webkit-input-placeholder{
+                color: black;
+            }
+            /*support mozilla*/      
+            .plc:-moz-input-placeholder{
+                color: black;
+            }
+            /*support internet explorer*/
+            .plc:-ms-input-placeholder{
+          color: black;
+            }
+            .container{max-width:1200px; margin:auto;}
+            .slider .indicators .indicator-item {
+            background-color: #666666;
+            border: 3px solid #ffffff;
+            -webkit-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+            -moz-box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+            box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);
+            }
+            .slider .indicators .indicator-item.active {
+            background-color: #ffffff;
+            }
+            .slider .indicators {
+            bottom: 60px;
+            z-index: 100;
+            /* text-align: left; */
+            }
+        </style>
+    </head>
+
+
+<body style="overflow-x: hidden">
+  <form id="form1" runat="server">
+ 
+	<!-- Header -->
+<asp:PlaceHolder runat="server" ID="phHeader">
+    <div class="navbar-fixed">
+      <nav class="white darken-2">
+        <div class="container nav-wrapper">
+          <%--<a class="brand-logo left" href="default.aspx"><img style="width:120px; margin-top:-10px" class="responsive-img" src="./Co-founders Netwrok_files/logo.png"></a>--%>
+          <asp:HyperLink runat="server" ID="hlLogo" CssClass="brand-logo left responsive-img" ImageUrl="./Co-founders Netwrok_files/logo.png"></asp:HyperLink>
+
+          <a href="#" data-activates="mobile-demo" class="button-collapse right"><i class="cyan-text material-icons" style="width:50px">menu</i></a>
+             <!-- Dropdown Structure -->
+             <ul class=" hide-on-med-and-down" style="margin-left: 250px">
+                <li><a class="grey-text text-darken-2 waves-effect waves-teal" href="about.aspx">ABOUT</a></li>
+                <li><a class="grey-text text-darken-2 waves-effect waves-teal" href="howitworks.aspx">HOW IT WORK</a></li>
+                 <li><a class="grey-text text-darken-2 waves-effect waves-teal" href="blog.aspx">BLOG</a></li>
+                <li><a class="grey-text text-darken-2 waves-effect waves-teal" href="user_search.aspx">NETWORK</a></li>
+                <li><a class="grey-text text-darken-2 waves-effect waves-teal" href="project_search.aspx">PITCHES</a></li>
+                <li><a class="grey-text text-darken-2 waves-effect waves-teal" href="hustlers.aspx">HUSTLERS</a></li>
+                <li><a class="grey-text text-darken-2 waves-effect waves-teal" href="contact.aspx">CONTACT</a></li>
+          </ul>
+          <span class=" hide-on-med-and-down">
+                <asp:PlaceHolder runat="server" ID="phSignedIn">
+                    <span class="right">
+                    <a href="messaging.aspx" class="black-text fa fa-bell-o"><!--<span class=" new badge">4</span>--></a>
+                    &nbsp;
+                    <span>
+                        <a class="dropdown-button" href="user_welcome.aspx" data-activates="dropdown" data-beloworigin="true"><asp:Image runat="server" ID="imgUser" CssClass="circle responsive-img" Width="40" Height="40" /></a>
+                        <!-- Dropdown Structure -->
+                            <ul id="dropdown" class="dropdown-content" style="margin-top: 10px;margin-left: 30px; width: 500px">
+                                <li class="collection-item avatar">
+                                    <a href="User.aspx" class="secondary-content"><i class="material-icons">account_circle</i>Profile</a>
+                                </li>
+                                <li class="collection-item avatar">
+                                    <a href="user_edit.aspx" class="secondary-content"><i class="material-icons">build</i>Edit</a>
+                                </li>
+                                <li class="collection-item avatar">
+                                    <a href="messaging.aspx" class="secondary-content"><i class="material-icons">message</i>Message</a>
+                                </li>  
+                                <li class="collection-item avatar">
+                                    <a href="user_welcome.aspx" class="secondary-content"><i class="material-icons">contact_mail</i>Pitch</a>
+                                </li>                                
+                                <li class="collection-item avatar">
+                                    <a class="secondary-content" href="signout.aspx"><i class="material-icons">lock_outline</i>Sign Out</a>
+                                </li>
+                            </ul>
+                    </span>
+                        <!--<a class="grey-text text-darken-2 waves-effect waves-teal" href="user_welcome.aspx"><img src="http://old.cofoundersnetwork.com/img/team/kg.jpg" class="circle responsive-img" style="width: 40px;"/></a>-->
+                    <!--<a class="grey-text text-darken-2 waves-effect waves-teal" href="user_welcome.aspx"><span style="font-size: 23px" class="black-text fa fa-user"></span> <asp:Literal runat="server" ID="litUsername"></asp:Literal></b></a>-->
+                    </span>	 
+                </asp:PlaceHolder>
+                <asp:PlaceHolder runat="server" ID="phSignedOut">
+                    <!-- Logged out -->
+                    <span class="right">
+                    <a class="grey-text text-darken-2 waves-effect waves-teal" href="login.aspx"><span style="font-size: 25px" class="black-text fa fa-lock"></span> LOGIN</a>
+                    &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;		
+                    <a class="grey-text text-darken-2 waves-effect waves-teal" href="signup.aspx"><span style="font-size: 23px" class="black-text fa fa-user"></span> SIGN UP</a>	
+                    </span>	    
+                </asp:PlaceHolder>
+          </span>
+        </div>
+        </nav>      
+    </div>
+    <div class="side-nav right blue-grey lighten-4" id="mobile-demo" style="width:200px;">
+        <ul>
+            <li><a href="Default.aspx"><img style="width: 100px" class="responsive-img" src="./Co-founders Netwrok_files/logo.png"></a></li>
+            <li><a class="waves-effect " href="about.aspx">About</a></li>
+            <li><a class="waves-effect " href="howitworks.aspx">How It Work</a></li>
+            <li><a class="waves-effect " href="blog.aspx">Blog</a></li>
+            <li><a class="waves-effect" href="project_search.aspx">Pitches</a></li>
+            <li><a class="waves-effect" href="user_search.aspx">Network</a></li>
+            <li><a class="waves-effect" href="hustlers.aspx">Hustlers</a></li>
+            <%--<li><a class="waves-effect" href="pricing.aspx">Pricing</a></li>--%>
+            <li><a class="waves-effect" href="contact.aspx">Contact</a></li>
+            <li><a class="waves-effect" href="user_welcome.aspx">Pitch an Idea</a></li>
+            <li><a class="waves-effect" href="messaging.aspx">Messaging</a></li>
+
+                <asp:PlaceHolder runat="server" ID="phSignedIn_Mobile">
+		            <li><a class="waves-effect" href="user_welcome.aspx"><b><asp:Literal runat="server" ID="litUsername_Mobile"></asp:Literal></b></a></li>
+	                <li><a class="waves-effect" href="signout.aspx" >Sign Out</a></li>	
+	                </asp:PlaceHolder>
+		            <asp:PlaceHolder runat="server" ID="phSignedOut_Mobile">
+	                <!-- Logged out -->
+		            <li><a class="waves-effect" href="login.aspx">Login</a></li>		
+		            <li><a class="waves-effect  " href="signup.aspx">Sign Up for Free</a></li>		    
+	                </asp:PlaceHolder>
+		
+        </ul>
+    </div>
+</asp:PlaceHolder>
+
+        <asp:contentplaceholder id="content" runat="server"></asp:contentplaceholder>
+      <br />
+
+      <asp:contentplaceholder id="contentFooter" runat="server">
+
+    <footer class="page-footer grey darken-4" style="z-index:1050">
+     <div class="row" style="margin-top:30px;margin-bottom:30px">
+          <div class=" center col m12 l12 s12">
+          <span style="font-size: 17px" class="white-text">FOLOW US</span>&nbsp;&nbsp;&nbsp;&nbsp;
+             <a style="font-size: 30px" class="white-text text-lighten-5" href="https://facebook.com/cofoundersnetwork"><i class="fab fa-facebook"></i></a>&nbsp;&nbsp;
+             <a style="font-size: 30px" class="white-text text-lighten-5" href="https://instagram.com/cofoundersnetwork"><i class="fab fa-instagram"></i></a>&nbsp;&nbsp;
+             <a style="font-size: 30px" class="white-text text-lighten-5" href="https://twitter.com/cofoundersnet"><i class="fab fa-twitter"></i> </a>&nbsp;
+             <a style="font-size: 30px" class="white-text text-lighten-5" href="https://linkedin.com/company/cofoundersnetwork"><i class="fab fa-linkedin-in"></i></a>&nbsp;&nbsp;
+          </div>
+      </div>
+     
+    <div class="row"> 
+
+    <div class="container">
+      <div class="col m4 l4 s12">
+        <h5 class="cyan-text text-darken-5" style="margin-top:30px;margin-bottom:30px">CO-FOUNDERS</h5>
+        <p class="grey-text text-lighten-1">Co-Founders Network was founded in Singapore and operating in emerging markets in South East Asia where you can find quality and real users of co-founders and investors. We aim to help people innovate, create strategic alliances and match the right investments. </p>
+      </div>
+      <div class="col m4 l4 s12">
+      
+        <h5 class="cyan-text text-darken-5" style="margin-top:30px;margin-bottom:30px;">Quick Links</h5>
+        <ul>
+          <li><a class="grey-text text-lighten-1" href="about.aspx">About Us</a></li>
+          <li><a class="grey-text text-lighten-1" href="project_search.aspx">Pitches</a></li>
+          <li><a class="grey-text text-lighten-1" href="user_search.aspx">Network</a></li>
+          <li><a class="grey-text text-lighten-1" href="contact.aspx">Contact</a></li>
+            <li><a class="grey-text text-lighten-1" href="privacypolicy.aspx">Privacy Policy</a></li>
+            <li><a class="grey-text text-lighten-1" href="networktermsofuse.aspx">Network Terms of Use</a></li>
+        </ul>
+        
+      </div>
+      <div class="col m4 l4 s12">
+      
+        <h5 class="cyan-text text-darken-5" style="margin-top:30px;margin-bottom:30px">Premium Member</h5>
+        <ul>
+          <li><a class="grey-text text-lighten-1" href="Signup.aspx">Join Us</a></li>
+          <li><a class="grey-text text-lighten-1" href="#!">Contact</a></li>
+        </ul>
+      </div>
+    </div>
+    </div>
+  <div style="margin-top:70px;" class="black darken-1 center footer-copyright">
+        <div style="margin-top:10px; margin-bottom:10px" class="col l12 m12 s12 grey-text text-lighten-1">&copy; <%=DateTime.Now.ToString("yyyy") %> Copyright <a class="cyan-text text-darken-5" href="./">Co-Founders Network.</a></div>
+  </div>
+</footer>
+
+          </asp:contentplaceholder>
+    <script type="text/javascript">
+        (function($) {
+            $(function() {
+        $('.dropdown-button').dropdown({
+            inDuration: 300,
+            outDuration: 225,
+            hover: true, // Activate on hover
+            belowOrigin: true, // Displays dropdown below the button
+            alignment: 'right' // Displays dropdown with edge aligned to the left of button
+            }
+        );
+            }); // End Document Ready
+        })(jQuery); // End of jQuery name space
+        $(".button-collapse").sideNav();
+        $(".button-collapse1").sideNav();
+        $("select").material_select();
+        $(".parallax").parallax();
+        $(".slider").slider({fullWidth: true});
+        $(".collapsible").collapsible();
+        $("input#input_text, textarea#textarea2").characterCounter(); 
+    </script>
+
+    </form>  
+</body>
+
+</html>

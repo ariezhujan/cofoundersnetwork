@@ -1,0 +1,1198 @@
+
+{"entities":
+{"Q319":
+{"pageid":507,"ns":0,"title":"Q319","lastrevid":306250430,"modified":"2016-02-22T08:29:34Z","type":"item","id":"Q319","labels":
+{"pl":
+{"language":"pl","value":"Jowisz"},"en":
+{"language":"en","value":"Jupiter"},"fr":
+{"language":"fr","value":"Jupiter"},"it":
+{"language":"it","value":"Giove"},"nb":
+{"language":"nb","value":"Jupiter"},"de":
+{"language":"de","value":"Jupiter"},"ru":
+{"language":"ru","value":"\u042e\u043f\u0438\u0442\u0435\u0440"},"be-tarask":
+{"language":"be-tarask","value":"\u042e\u043f\u0456\u0442\u044d\u0440"},"nan":
+{"language":"nan","value":"Bo\u030dk-chhe\u207f"},"ilo":
+{"language":"ilo","value":"Hupiter"},"es":
+{"language":"es","value":"J\u00fapiter"},"en-ca":
+{"language":"en-ca","value":"Jupiter"},"en-gb":
+{"language":"en-gb","value":"Jupiter"},"af":
+{"language":"af","value":"Jupiter"},"am":
+{"language":"am","value":"\u1301\u1352\u1270\u122d"},"an":
+{"language":"an","value":"Chupiter"},"ang":
+{"language":"ang","value":"\u00deunor"},"ar":
+{"language":"ar","value":"\u0627\u0644\u0645\u0634\u062a\u0631\u064a"},"arz":
+{"language":"arz","value":"\u0627\u0644\u0645\u0634\u062a\u0631\u0649"},"as":
+{"language":"as","value":"\u09ac\u09c3\u09b9\u09b8\u09cd\u09aa\u09a4\u09bf \u0997\u09cd\u09f0\u09b9"},"ast":
+{"language":"ast","value":"X\u00fapiter"},"az":
+{"language":"az","value":"Yupiter"},"ba":
+{"language":"ba","value":"\u042e\u043f\u0438\u0442\u0435\u0440"},"bar":
+{"language":"bar","value":"Jupiter"},"be":
+{"language":"be","value":"\u042e\u043f\u0456\u0442\u044d\u0440"},"bg":
+{"language":"bg","value":"\u042e\u043f\u0438\u0442\u0435\u0440"},"bn":
+{"language":"bn","value":"\u09ac\u09c3\u09b9\u09b8\u09cd\u09aa\u09a4\u09bf \u0997\u09cd\u09b0\u09b9"},"bo":
+{"language":"bo","value":"\u0f55\u0f74\u0f62\u0f0b\u0f56\u0f74\u0f0d"},"br":
+{"language":"br","value":"Yaou"},"bs":
+{"language":"bs","value":"Jupiter"},"ca":
+{"language":"ca","value":"J\u00fapiter"},"chr":
+{"language":"chr","value":"\u13e7\u13c8\u13d3"},"ckb":
+{"language":"ckb","value":"\u0647\u06d5\u0633\u0627\u0631\u06d5\u06cc \u0645\u0648\u0634\u062a\u06d5\u0631\u06cc"},"cs":
+{"language":"cs","value":"Jupiter"},"csb":
+{"language":"csb","value":"Jupiter"},"cv":
+{"language":"cv","value":"\u042e\u043f\u0438\u0442\u0435\u0440"},"cy":
+{"language":"cy","value":"Iau"},"da":
+{"language":"da","value":"Jupiter"},"diq":
+{"language":"diq","value":"Jupiter"},"el":
+{"language":"el","value":"\u0394\u03af\u03b1\u03c2 (\u03c0\u03bb\u03b1\u03bd\u03ae\u03c4\u03b7\u03c2)"},"eml":
+{"language":"eml","value":"Z\u00f2bia"},"eo":
+{"language":"eo","value":"Jupitero"},"et":
+{"language":"et","value":"Jupiter"},"eu":
+{"language":"eu","value":"Jupiter"},"ext":
+{"language":"ext","value":"J\u00fapiti"},"fa":
+{"language":"fa","value":"\u0645\u0634\u062a\u0631\u06cc"},"fi":
+{"language":"fi","value":"Jupiter"},"fo":
+{"language":"fo","value":"Jupiter"},"frp":
+{"language":"frp","value":"Jupit\u00e8r"},"frr":
+{"language":"frr","value":"Jupiter"},"fy":
+{"language":"fy","value":"Jupiter"},"ga":
+{"language":"ga","value":"I\u00fapatar"},"gan":
+{"language":"gan","value":"\u6728\u661f"},"gd":
+{"language":"gd","value":"Am Bliogh"},"gl":
+{"language":"gl","value":"X\u00fapiter"},"gn":
+{"language":"gn","value":"H\u00fapiter"},"gu":
+{"language":"gu","value":"\u0a97\u0ac1\u0ab0\u0ac1"},"gv":
+{"language":"gv","value":"Jupiter"},"haw":
+{"language":"haw","value":"Ka\u2018\u0101wela"},"he":
+{"language":"he","value":"\u05e6\u05d3\u05e7"},"hi":
+{"language":"hi","value":"\u092c\u0943\u0939\u0938\u094d\u092a\u0924\u093f"},"hif":
+{"language":"hif","value":"Brahaspati"},"hr":
+{"language":"hr","value":"Jupiter"},"ht":
+{"language":"ht","value":"Jipit\u00e8"},"hu":
+{"language":"hu","value":"Jupiter"},"hy":
+{"language":"hy","value":"\u0545\u0578\u0582\u057a\u056b\u057f\u0565\u0580"},"ia":
+{"language":"ia","value":"Jupiter"},"id":
+{"language":"id","value":"Yupiter"},"io":
+{"language":"io","value":"Jupitero"},"is":
+{"language":"is","value":"J\u00fap\u00edter"},"ja":
+{"language":"ja","value":"\u6728\u661f"},"jbo":
+{"language":"jbo","value":"la mumplini"},"jv":
+{"language":"jv","value":"Yupiter"},"ka":
+{"language":"ka","value":"\u10d8\u10e3\u10de\u10d8\u10e2\u10d4\u10e0\u10d8"},"kaa":
+{"language":"kaa","value":"Yupiter"},"kk":
+{"language":"kk","value":"\u042e\u043f\u0438\u0442\u0435\u0440"},"km":
+{"language":"km","value":"\u1797\u1796\u1796\u17d2\u179a\u17a0\u179f\u17d2\u1794\u178f\u17b7\u17cd"},"kn":
+{"language":"kn","value":"\u0c97\u0cc1\u0cb0\u0cc1"},"ko":
+{"language":"ko","value":"\ubaa9\uc131"},"ksh":
+{"language":"ksh","value":"Juppitter"},"ku":
+{"language":"ku","value":"Ber\u00e7\u00ees"},"kv":
+{"language":"kv","value":"\u042e\u043f\u0438\u0442\u0435\u0440"},"kw":
+{"language":"kw","value":"Yow"},"ky":
+{"language":"ky","value":"\u042e\u043f\u0438\u0442\u0435\u0440"},"la":
+{"language":"la","value":"Iuppiter"},"lb":
+{"language":"lb","value":"Jupiter"},"lez":
+{"language":"lez","value":"\u042e\u043f\u0438\u0442\u0435\u0440"},"li":
+{"language":"li","value":"Jupiter"},"lij":
+{"language":"lij","value":"Gi\u00f2ve"},"lt":
+{"language":"lt","value":"Jupiteris"},"lv":
+{"language":"lv","value":"Jupiters"},"mdf":
+{"language":"mdf","value":"\u042e\u043f\u0438\u0442\u0435\u0440\u044c"},"mk":
+{"language":"mk","value":"\u0408\u0443\u043f\u0438\u0442\u0435\u0440"},"ml":
+{"language":"ml","value":"\u0d35\u0d4d\u0d2f\u0d3e\u0d34\u0d02"},"mn":
+{"language":"mn","value":"\u0411\u0430\u0440\u0445\u0430\u0441\u0431\u0430\u0434\u044c"},"mr":
+{"language":"mr","value":"\u0917\u0941\u0930\u0942 \u0917\u094d\u0930\u0939"},"ms":
+{"language":"ms","value":"Musytari"},"mt":
+{"language":"mt","value":"\u0120ove"},"mwl":
+{"language":"mwl","value":"J\u00fapiter"},"my":
+{"language":"my","value":"\u1000\u103c\u102c\u101e\u1015\u1010\u1031\u1038\u1002\u103c\u102d\u102f\u101f\u103a"},"mzn":
+{"language":"mzn","value":"\u0645\u0634\u062a\u0631\u06cc"},"nah":
+{"language":"nah","value":"Hu\u0113yitzitzimic\u012btlalli"},"nds":
+{"language":"nds","value":"Jupiter"},"nds-nl":
+{"language":"nds-nl","value":"Jupiter"},"ne":
+{"language":"ne","value":"\u092c\u0943\u0939\u0938\u094d\u092a\u0924\u093f\u0917\u094d\u0930\u0939"},"nl":
+{"language":"nl","value":"Jupiter"},"nn":
+{"language":"nn","value":"Jupiter"},"nov":
+{"language":"nov","value":"Jupitere"},"nv":
+{"language":"nv","value":"J\u00edbitoo"},"oc":
+{"language":"oc","value":"Jupit\u00e8r"},"or":
+{"language":"or","value":"\u0b2c\u0b43\u0b39\u0b38\u0b4d\u0b2a\u0b24\u0b3f"},"os":
+{"language":"os","value":"\u042e\u043f\u0438\u0442\u0435\u0440"},"pa":
+{"language":"pa","value":"\u0a2c\u0a4d\u0a30\u0a39\u0a3f\u0a38\u0a2a\u0a24"},"pam":
+{"language":"pam","value":"Jupiter"},"pms":
+{"language":"pms","value":"Gieuv"},"pnb":
+{"language":"pnb","value":"\u0645\u0634\u062a\u0631\u06cc"},"ps":
+{"language":"ps","value":"\u0645\u0634\u062a\u0631\u064a"},"pt":
+{"language":"pt","value":"J\u00fapiter"},"qu":
+{"language":"qu","value":"Pirwa"},"rm":
+{"language":"rm","value":"Jupiter"},"ro":
+{"language":"ro","value":"Jupiter"},"rue":
+{"language":"rue","value":"\u042e\u043f\u0456\u0442\u0435\u0440"},"sa":
+{"language":"sa","value":"\u0917\u0941\u0930\u0941\u0917\u094d\u0930\u0939\u0903"},"sah":
+{"language":"sah","value":"\u042e\u043f\u0438\u0442\u0435\u0440"},"scn":
+{"language":"scn","value":"Giovi"},"se":
+{"language":"se","value":"Jupiter"},"sh":
+{"language":"sh","value":"Jupiter"},"si":
+{"language":"si","value":"\u0db6\u0dca\u200d\u0dbb\u0dc4\u0dc3\u0dca\u0db4\u0dad\u0dd2 \u0d9c\u0dca\u200d\u0dbb\u0dc4\u0dba\u0dcf"},"sk":
+{"language":"sk","value":"Jupiter"},"sl":
+{"language":"sl","value":"Jupiter"},"so":
+{"language":"so","value":"Cirjeex"},"sq":
+{"language":"sq","value":"Jupiteri"},"sr":
+{"language":"sr","value":"\u0408\u0443\u043f\u0438\u0442\u0435\u0440"},"stq":
+{"language":"stq","value":"Jupiter"},"su":
+{"language":"su","value":"Jupiter"},"sv":
+{"language":"sv","value":"Jupiter"},"sw":
+{"language":"sw","value":"Mshtarii"},"szl":
+{"language":"szl","value":"Jowisz"},"ta":
+{"language":"ta","value":"\u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd"},"te":
+{"language":"te","value":"\u0c17\u0c41\u0c30\u0c41\u0c21\u0c41"},"tg":
+{"language":"tg","value":"\u041c\u0443\u0448\u0442\u0430\u0440\u04e3"},"th":
+{"language":"th","value":"\u0e14\u0e32\u0e27\u0e1e\u0e24\u0e2b\u0e31\u0e2a\u0e1a\u0e14\u0e35"},"tl":
+{"language":"tl","value":"Hupiter"},"tr":
+{"language":"tr","value":"J\u00fcpiter"},"tt":
+{"language":"tt","value":"\u042e\u043f\u0438\u0442\u0435\u0440"},"ug":
+{"language":"ug","value":"\u064a\u06c7\u067e\u0649\u062a\u06d0\u0631"},"uk":
+{"language":"uk","value":"\u042e\u043f\u0456\u0442\u0435\u0440"},"ur":
+{"language":"ur","value":"\u0645\u0634\u062a\u0631\u06cc"},"uz":
+{"language":"uz","value":"Yupiter"},"vi":
+{"language":"vi","value":"Sao M\u1ed9c"},"war":
+{"language":"war","value":"Hupiter"},"wo":
+{"language":"wo","value":"Yupiter"},"xal":
+{"language":"xal","value":"\u041f\u04af\u0440\u0432\u0259 \u04bb\u0430\u0440\u0438\u0433"},"yi":
+{"language":"yi","value":"\u05d9\u05d5\u05e4\u05d9\u05d8\u05e2\u05e8"},"yo":
+{"language":"yo","value":"J\u00fap\u00edt\u00e9r\u00ec"},"za":
+{"language":"za","value":"Ndaundeiqfaex"},"zh":
+{"language":"zh","value":"\u6728\u661f"},"zh-cn":
+{"language":"zh-cn","value":"\u6728\u661f"},"zh-hans":
+{"language":"zh-hans","value":"\u6728\u661f"},"zh-hant":
+{"language":"zh-hant","value":"\u6728\u661f"},"nap":
+{"language":"nap","value":"Giove"},"vec":
+{"language":"vec","value":"Xove"},"new":
+{"language":"new","value":"\u0935\u0943\u0939\u0938\u094d\u092a\u0924\u093f \u0917\u094d\u0930\u0939"},"pt-br":
+{"language":"pt-br","value":"J\u00fapiter"},"sco":
+{"language":"sco","value":"Jupiter"},"hsb":
+{"language":"hsb","value":"Jupiter"},"vep":
+{"language":"vep","value":"Jupiter"},"tyv":
+{"language":"tyv","value":"\u042e\u043f\u0438\u0442\u0435\u0440"},"ce":
+{"language":"ce","value":"\u042e\u043f\u0438\u0442\u0435\u0440"},"zh-hk":
+{"language":"zh-hk","value":"\u6728\u661f"},"yue":
+{"language":"yue","value":"\u6728\u661f"},"gsw":
+{"language":"gsw","value":"Jupiter"},"sgs":
+{"language":"sgs","value":"Jop\u0117teris"},"lzh":
+{"language":"lzh","value":"\u6728\u661f"},"vro":
+{"language":"vro","value":"Jupit\u00f5r"},"xmf":
+{"language":"xmf","value":"\u10d3\u10d8\u10d0"},"zea":
+{"language":"zea","value":"Jupiter"},"pfl":
+{"language":"pfl","value":"Jupiter"},"bxr":
+{"language":"bxr","value":"\u041f\u04af\u0440\u0431\u044d"},"tk":
+{"language":"tk","value":"\u00ddupiter"},"zh-tw":
+{"language":"zh-tw","value":"\u6728\u661f"},"bh":
+{"language":"bh","value":"\u092c\u0943\u0939\u0938\u094d\u092a\u0924\u093f \u0917\u094d\u0930\u0939"},"hak":
+{"language":"hak","value":"Muk-s\u00ean"},"rup":
+{"language":"rup","value":"Jupiter"},"cdo":
+{"language":"cdo","value":"M\u016dk-s\u012dng"},"lo":
+{"language":"lo","value":"\u0e94\u0eb2\u0ea7\u0e9e\u0eb0\u0eab\u0eb1\u0e94"},"vls":
+{"language":"vls","value":"Jupiter"},"vo":
+{"language":"vo","value":"Yupiter"},"lmo":
+{"language":"lmo","value":"Giove"},"bjn":
+{"language":"bjn","value":"Jupiter"},"ki":
+{"language":"ki","value":"Jupita"},"sc":
+{"language":"sc","value":"Jove"},"kg":
+{"language":"kg","value":"Sumbula"},"wuu":
+{"language":"wuu","value":"\u6728\u661f"}},"descriptions":
+{"pl":
+{"language":"pl","value":"pi\u0105ta planeta Uk\u0142adu S\u0142onecznego"},"en":
+{"language":"en","value":"fifth planet from the sun and largest planet in the solar system"},"fr":
+{"language":"fr","value":"cinqui\u00e8me plan\u00e8te du Syst\u00e8me solaire"},"it":
+{"language":"it","value":"quinto pianeta del sistema solare"},"nb":
+{"language":"nb","value":"den femte planeten fra solen"},"de":
+{"language":"de","value":"f\u00fcnfter Planet unseres Sonnensystems"},"ru":
+{"language":"ru","value":"\u043f\u044f\u0442\u0430\u044f \u043e\u0442 \u0421\u043e\u043b\u043d\u0446\u0430 \u0438 \u0441\u0430\u043c\u0430\u044f \u0431\u043e\u043b\u044c\u0448\u0430\u044f \u043f\u043b\u0430\u043d\u0435\u0442\u0430 \u0421\u043e\u043b\u043d\u0435\u0447\u043d\u043e\u0439 \u0441\u0438\u0441\u0442\u0435\u043c\u044b"},"ilo":
+{"language":"ilo","value":"Ti maikalima a planeta manipud ti Init ket isu ti kadakkelan iti Sistema a Solar"},"es":
+{"language":"es","value":"quinto planeta del Sistema Solar"},"el":
+{"language":"el","value":"\u039f \u03c0\u03ad\u03bc\u03c0\u03c4\u03bf\u03c2 \u03c0\u03bb\u03b1\u03bd\u03ae\u03c4\u03b7\u03c2 \u03c4\u03bf\u03c5 \u03b7\u03bb\u03b9\u03b1\u03ba\u03bf\u03cd \u03c3\u03c5\u03c3\u03c4\u03ae\u03bc\u03b1\u03c4\u03bf\u03c2"},"fi":
+{"language":"fi","value":"aurinkokunnan viides planeetta Auringosta lukien"},"ca":
+{"language":"ca","value":"cinqu\u00e8 planeta del sistema solar"},"nn":
+{"language":"nn","value":"femte planeten fr\u00e5 sola"},"ja":
+{"language":"ja","value":"\u592a\u967d\u7cfb\u7b2c\u4e94\u60d1\u661f"},"pt":
+{"language":"pt","value":"planeta gasoso do Sistema Solar"},"ko":
+{"language":"ko","value":"\ud0dc\uc591\uacc4\uc758 \ud589\uc131"},"nl":
+{"language":"nl","value":"vijfde planeet in ons zonnestelsel"},"fa":
+{"language":"fa","value":"\u067e\u0646\u062c\u0645\u06cc\u0646 \u0648 \u0628\u0632\u0631\u06af\u200c\u062a\u0631\u06cc\u0646 \u0633\u06cc\u0627\u0631\u0647\u0654 \u0645\u0646\u0638\u0648\u0645\u0647 \u062e\u0648\u0631\u0634\u06cc\u062f\u06cc"},"zh":
+{"language":"zh","value":"\u8ddd\u96e2\u592a\u967d\u7b2c\u4e94\u8fd1\u7684\u884c\u661f"},"pt-br":
+{"language":"pt-br","value":"quinto planeta a partir do sol"},"sco":
+{"language":"sco","value":"fift planet frae the sun"},"oc":
+{"language":"oc","value":"planeta"},"cs":
+{"language":"cs","value":"planeta"},"zh-hans":
+{"language":"zh-hans","value":"\u592a\u9633\u7cfb\u7b2c\u4e94\u4e2a\u884c\u661f"},"zh-hant":
+{"language":"zh-hant","value":"\u592a\u967d\u7cfb\u7b2c\u4e94\u500b\u884c\u661f"},"be":
+{"language":"be","value":"\u043f\u043b\u0430\u043d\u0435\u0442\u0430"},"sk":
+{"language":"sk","value":"plan\u00e9ta"},"hi":
+{"language":"hi","value":"jupiter"},"zh-cn":
+{"language":"zh-cn","value":"\u8ddd\u79bb\u592a\u9633\u7b2c\u4e94\u8fd1\u7684\u884c\u661f"},"zh-hk":
+{"language":"zh-hk","value":"\u8ddd\u96e2\u592a\u967d\u7b2c\u4e94\u8fd1\u7684\u884c\u661f"},"zh-tw":
+{"language":"zh-tw","value":"\u8ddd\u96e2\u592a\u967d\u7b2c\u4e94\u8fd1\u7684\u884c\u661f"},"hu":
+{"language":"hu","value":"a Naprendszer \u00f6t\u00f6dik bolyg\u00f3ja"},"uk":
+{"language":"uk","value":"\u043f'\u044f\u0442\u0430 \u0439 \u043d\u0430\u0439\u0431\u0456\u043b\u044c\u0448\u0430 \u043f\u043b\u0430\u043d\u0435\u0442\u0430 \u0421\u043e\u043d\u044f\u0447\u043d\u043e\u0457 \u0441\u0438\u0441\u0442\u0435\u043c\u0438"},"eo":
+{"language":"eo","value":"kvina planedo de la sunsistemo"},"scn":
+{"language":"scn","value":"quintu pianeta d\u00fb Sistema Sulari"},"gl":
+{"language":"gl","value":"quinto planeta do sistema solar"},"ne":
+{"language":"ne","value":"\u0938\u094c\u0930\u094d\u092f \u092a\u094d\u0930\u0923\u093e\u0932\u0940\u092e\u093e \u0938\u0942\u0930\u094d\u092f \u0926\u0947\u0916\u093f \u092a\u093e\u0901\u091a\u094c \u0917\u094d\u0930\u0939 \u0930 \u0938\u092c\u0948 \u092d\u0928\u094d\u0926\u093e \u0920\u0942\u0932\u094b \u0917\u094d\u0930\u0939"}},"aliases":
+{"nan":[
+{"language":"nan","value":"Bo\u030dk-chhi\u207f"}],"de":[
+{"language":"de","value":"\u2643"}],"fa":[
+{"language":"fa","value":"\u0628\u0631\u062c\u06cc\u0633"},
+{"language":"fa","value":"\u0645\u0634\u062a\u0631\u06cc\u062f"},
+{"language":"fa","value":"\u0647\u0648\u0631\u0645\u0632"},
+{"language":"fa","value":"\u0632\u0626\u0648\u0633"},
+{"language":"fa","value":"\u0628\u0631\u0647\u0633\u067e\u062a"}],"pt":[
+{"language":"pt","value":"planeta J\u00fapiter"}],"fr":[
+{"language":"fr","value":"\u2643"}],"be":[
+{"language":"be","value":"\u041f\u043b\u0430\u043d\u0435\u0442\u0430 \u042e\u043f\u0456\u0442\u044d\u0440"}],"en":[
+{"language":"en","value":"Sol V"},
+{"language":"en","value":"\u2643"}],"nb":[
+{"language":"nb","value":"\u2643"}],"jbo":[
+{"language":"jbo","value":"la iupiter"}],"it":[
+{"language":"it","value":"\u2643"}],"ru":[
+{"language":"ru","value":"\u0413\u043e\u043b\u0443\u0431\u043e\u0439 \u0433\u0438\u0433\u0430\u043d\u0442"}]},"claims":
+{"P1036":[
+{"mainsnak":
+{"snaktype":"value","property":"P1036","datavalue":
+{"value":"523.45","type":"string"},"datatype":"string"},"type":"statement","id":"Q319$5525e016-4210-bb2c-ce03-bd2dd52cca6c","rank":"normal"}],"P31":[
+{"mainsnak":
+{"snaktype":"value","property":"P31","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":121750},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"Q319$f93995ff-41a2-457d-e9db-5a6ef8566dd5","rank":"normal"},
+{"mainsnak":
+{"snaktype":"value","property":"P31","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":30014},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"Q319$c50866a2-4e70-895b-54c8-fa6da3ef60c4","rank":"normal"}],"P138":[
+{"mainsnak":
+{"snaktype":"value","property":"P138","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":4649},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$0E139B4E-B424-49C7-88C5-87FA0E059DCA","rank":"normal"}],"P373":[
+{"mainsnak":
+{"snaktype":"value","property":"P373","datavalue":
+{"value":"Jupiter (planet)","type":"string"},"datatype":"string"},"type":"statement","id":"q319$0FE31656-AEA5-4D36-942D-61006B5DE2A8","rank":"normal"}],"P397":[
+{"mainsnak":
+{"snaktype":"value","property":"P397","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":525},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$764C2E46-EA8F-4AA3-A7B3-AF3629FE8AE3","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]}],"P227":[
+{"mainsnak":
+{"snaktype":"value","property":"P227","datavalue":
+{"value":"4162926-7","type":"string"},"datatype":"string"},"type":"statement","id":"q319$BE8750B8-7037-4332-957E-116900DA2F13","rank":"normal","references":[
+{"hash":"66c317d05e08f2918310ccb68b89908b04c8e73e","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":36578},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]}],"P398":[
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":16755},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$B1FFC236-539F-47CC-AB01-E0EAD61BCF93","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":16757},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$1F30C7F4-E52C-4010-B80F-571B1D40C302","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":3257},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$9F9F2183-897A-4E90-BCB3-8F39A61ADCF5","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":16765},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$CFC4EE0A-105C-4365-84A8-C5CCC17D51C3","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":3123},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$2EDDD6DF-2891-4A09-9985-E5AB6759907F","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":3143},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$2C696EE0-238D-4238-A476-5A11AEEEBBB0","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":3169},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$8814A1A8-617D-4993-9382-EE2AA89BE6F3","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":3134},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$6BD1A421-28A4-4CEB-A71E-1CE7E3DBDCCC","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":16829},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$63F54518-66B1-427F-AFFC-EBA3942ABF64","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":16837},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$4B43BBCB-5DBF-4486-9E97-4954D2DAB8B1","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":16841},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$442C07B0-9462-4A0B-B308-6C3C6233254A","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":16863},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$51121E51-5017-48C3-93F8-BAC774F53245","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":16865},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$3D330919-4012-47B1-BFE2-D091CA364483","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":190536},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$848F341E-A738-4229-81F3-201FD1EDED20","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":16870},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$965DA01C-00A8-4C0A-A4F4-4E60E4571EB2","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":193853},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$43CC9631-99FD-4008-9DD7-5CFF4B5FF535","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":16884},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$74596FCE-C21C-4DB1-8026-4CFDF653B7A2","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":204283},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$F2D19572-8C9B-4008-8833-76D2785C983F","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":207884},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$C4D93890-E7AA-4106-85D9-6047A840EE0F","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":1458738},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$710584D1-E30B-4DDF-9BC9-CD24A3A1F998","rank":"normal","references":[
+{"hash":"7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":328},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":934499},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$8BB82E86-A8A8-46A6-9F72-A4445F9B4772","rank":"normal","references":[
+{"hash":"7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":328},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":16885},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$822F7343-17E1-41E3-B5C9-F67E261CEEA4","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":16886},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$72C4187A-00D2-4CF9-8F45-66BA9FF2B2C1","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":16898},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$5C8A7388-1755-46F2-ADFA-F7319CEF435F","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":16904},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$2EB95AD3-9617-4D74-B4A9-97768673828B","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":16913},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$330F2991-0816-4E2A-9DC6-EE616EBFCF0A","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":216086},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$4A106015-442D-4A06-8B36-F42429DFA810","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":16936},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$4C068315-0501-4410-B495-04FCD6548C2F","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":16942},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$B86DF930-80D2-4CBD-800D-1067E73F9336","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":16946},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$86EA9D77-972D-4137-B632-36CBF2BB9509","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":16949},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$86BDB4FE-60CB-4C12-8392-4195DC43C136","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":16956},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$EC92C34F-F6ED-44FB-BB35-DE91CEF27914","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":16960},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$17936AA3-DD36-48B0-8462-75E99E0F1AF9","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":16968},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$F7733B78-77CC-4AF3-8602-84B5F842B37E","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":16974},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$7979690B-D5DB-46E9-A85B-17BCA501AF90","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":17002},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$12B73F43-DD4F-44A7-9764-DE171D4BB33E","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":17011},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$53E8CF44-54C3-4A1E-A60C-24D95D105885","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":216069},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$4DCE91BA-0F6F-4FD6-A420-9CA650F35465","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":17035},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$513127F5-DF5D-4466-B1DC-15C77146D0A3","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":216770},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$42BE6494-B648-422F-8A6A-D0E349A2E3C1","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":213982},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$DF6C8531-9033-4CBC-94EF-87655D630CFB","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":216992},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$EE52C508-7B1D-4135-B307-10F43CE8F445","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":17068},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$20E550EE-75B6-44A1-8202-64E6C7D726E8","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":17077},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$607691C0-96AD-40E3-819E-E9BBAEAB35A1","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":17091},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$0EAD185A-707F-4EDE-A103-A542029F7390","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":17109},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$0A756DD7-D885-4322-BF38-0AED669DB422","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":17111},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$0BED9E8F-B0B2-46B9-AB82-1F22B677207F","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":17396},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$62D3093E-CCBC-40D4-8F1E-232705E80B7E","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":17406},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$0FEE3BA9-9511-4742-8D58-16ADEE772837","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":1458744},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$0093EA25-8062-4744-B166-E4F4FEC605CD","rank":"normal","references":[
+{"hash":"7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":328},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":17414},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$D36AE9F9-D083-4AAA-9EFF-5A95D924B9CE","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":765688},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$14D4B869-1FDE-4420-8975-EE0BD0F83037","rank":"normal","references":[
+{"hash":"7eb64cf9621d34c54fd4bd040ed4b61a88c4a1a0","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":328},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":17446},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$BAEBE73D-0125-49FA-A2C8-D923ABDAC3E4","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":17420},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$8B531742-AE8A-4F5B-8711-5BF883BAE19B","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":17421},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$A29503F3-36F2-4EBD-8EA1-E5A9602F814D","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":214296},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$17562DB5-9BD5-4E96-867B-AC7CFAB30490","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":17425},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$2F62E4D6-7F26-4E6C-A663-D55EF64CEB98","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":17426},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$FBF8527A-BEA0-4CD9-9705-28C541E07D6F","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":17429},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$721E3636-2677-428D-9559-BB2BA1B024BE","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":17432},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$A24F6A2E-BC1D-424C-80FB-ED72D761CD90","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":213994},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$4ED5A04A-17EF-45D7-AE92-AFA17178D8DC","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":214002},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$A2BA027D-FCC1-46D5-BB9C-55F8BCA1E3ED","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":17433},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$A602063A-C3B6-49D3-891B-D549D56562A7","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":17436},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$FE93F14F-FEB3-4C1C-96B7-58F5E769AAAF","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":17439},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$D324CA03-21E1-459B-AA05-5FF33FEDB134","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":17448},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$EB893E4B-5969-427D-ADF0-5A8EDDF12E80","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":214005},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$E60074DB-89F2-44AE-B531-B9D5D06F3EAD","rank":"normal","references":[
+{"hash":"50f57a3dbac4708ce4ae4a827c0afac7fcdb4a5c","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":11920},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":3060},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"Q319$26DEB45D-BA6B-425E-90C5-7FD5F0AE702E","rank":"normal"},
+{"mainsnak":
+{"snaktype":"value","property":"P398","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":152610},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"Q319$F1F98932-07F7-4034-8F7A-835CC6167F70","rank":"normal"}],"P361":[
+{"mainsnak":
+{"snaktype":"value","property":"P361","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":544},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"q319$22C4D740-E9C5-48C9-82A3-C6ABF083C002","rank":"normal"}],"P18":[
+{"mainsnak":
+{"snaktype":"value","property":"P18","datavalue":
+{"value":"Jupiter New Horizons.jpg","type":"string"},"datatype":"commonsMedia"},"type":"statement","id":"q319$1ea3ae54-4beb-0edb-bd05-d39816d9cad8","rank":"normal"}],"P367":[
+{"mainsnak":
+{"snaktype":"value","property":"P367","datavalue":
+{"value":"Jupiter symbol.svg","type":"string"},"datatype":"commonsMedia"},"type":"statement","id":"q319$07251301-2FF3-4A30-A9B3-6CC983F66AD3","rank":"normal"}],"P349":[
+{"mainsnak":
+{"snaktype":"value","property":"P349","datavalue":
+{"value":"00567795","type":"string"},"datatype":"external-id"},"type":"statement","id":"Q319$B7D821E4-177A-4C57-AAC6-80C33746DA10","rank":"normal"}],"P214":[
+{"mainsnak":
+{"snaktype":"value","property":"P214","datavalue":
+{"value":"316741895","type":"string"},"datatype":"external-id"},"type":"statement","id":"Q319$E6B80275-C13A-4D32-8238-990DCF06795B","rank":"normal","references":[
+{"hash":"004ec6fbee857649acdbdbad4f97b2c8571df97b","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":48183},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]}],"P910":[
+{"mainsnak":
+{"snaktype":"value","property":"P910","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":7033777},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"Q319$4FCCBDC3-6F51-48E4-BD06-89D811527282","rank":"normal"}],"P646":[
+{"mainsnak":
+{"snaktype":"value","property":"P646","datavalue":
+{"value":"/m/09q84","type":"string"},"datatype":"external-id"},"type":"statement","id":"Q319$E94ABC00-C5FA-410D-90C8-E1DA87D54387","rank":"normal","references":[
+{"hash":"af38848ab5d9d9325cffd93a5ec656cc6ca889ed","snaks":
+{"P248":[
+{"snaktype":"value","property":"P248","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":15241312},"type":"wikibase-entityid"},"datatype":"wikibase-item"}],"P577":[
+{"snaktype":"value","property":"P577","datavalue":
+{"value":
+{"time":"+2013-10-28T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http://www.wikidata.org/entity/Q1985727"},"type":"time"},"datatype":"time"}]},"snaks-order":["P248","P577"]}]}],"P1096":[
+{"mainsnak":
+{"snaktype":"value","property":"P1096","datavalue":
+{"value":
+{"amount":"+0.048775","unit":"1","upperBound":"+0.048775","lowerBound":"+0.048775"},"type":"quantity"},"datatype":"quantity"},"type":"statement","id":"Q319$bc3f0658-4d3b-b41f-396f-87eb510c46a2","rank":"normal"}],"P443":[
+{"mainsnak":
+{"snaktype":"value","property":"P443","datavalue":
+{"value":"En-us-Jupiter.ogg","type":"string"},"datatype":"commonsMedia"},"type":"statement","qualifiers":
+{"P407":[
+{"snaktype":"value","property":"P407","hash":"12704f6a5178d6800613341c24cd9b6cb4a74700","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":7976},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"qualifiers-order":["P407"],"id":"Q319$f677d9ef-4e8a-9db2-636b-f067e6f957cd","rank":"normal"},
+{"mainsnak":
+{"snaktype":"value","property":"P443","datavalue":
+{"value":"Fr-Jupiter.ogg","type":"string"},"datatype":"commonsMedia"},"type":"statement","qualifiers":
+{"P407":[
+{"snaktype":"value","property":"P407","hash":"3be4fb23771c9decf6c908552444e6753215dcf4","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":150},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"qualifiers-order":["P407"],"id":"Q319$0fe4ec59-47eb-86ac-0954-bf25f497e601","rank":"normal"},
+{"mainsnak":
+{"snaktype":"value","property":"P443","datavalue":
+{"value":"It-Giove.ogg","type":"string"},"datatype":"commonsMedia"},"type":"statement","qualifiers":
+{"P407":[
+{"snaktype":"value","property":"P407","hash":"a77ef6d322e3915085c305de616027d3f709c807","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":652},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"qualifiers-order":["P407"],"id":"Q319$4cdee8f0-4cc4-e3bb-348c-1acf2d67b3a2","rank":"normal"}],"P913":[
+{"mainsnak":
+{"snaktype":"value","property":"P913","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":3594852},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"Q319$433973a2-4d12-3d5d-458c-3f28198c93a8","rank":"normal"}],"P527":[
+{"mainsnak":
+{"snaktype":"value","property":"P527","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":3045},"type":"wikibase-entityid"},"datatype":"wikibase-item"},"type":"statement","id":"Q319$1ed4529f-402c-58d1-5093-e9994be84df4","rank":"normal"}],"P269":[
+{"mainsnak":
+{"snaktype":"value","property":"P269","datavalue":
+{"value":"029460913","type":"string"},"datatype":"external-id"},"type":"statement","id":"Q319$BD6CFE0A-CAD9-42E5-BE28-7E8661F51EBB","rank":"normal","references":[
+{"hash":"f70116eac7f49194478b3025330bfd8dcffa3c69","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":8447},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]}],"P268":[
+{"mainsnak":
+{"snaktype":"value","property":"P268","datavalue":
+{"value":"121083440","type":"string"},"datatype":"external-id"},"type":"statement","id":"Q319$522F00CF-37A7-4055-BB2C-41338A719A51","rank":"normal","references":[
+{"hash":"f70116eac7f49194478b3025330bfd8dcffa3c69","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":8447},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]}],"P1051":[
+{"mainsnak":
+{"snaktype":"value","property":"P1051","datavalue":
+{"value":"493","type":"string"},"datatype":"external-id"},"type":"statement","id":"Q319$D6AD3D9C-78F0-4E7C-AFC4-D74B04C88E31","rank":"normal"}],"P244":[
+{"mainsnak":
+{"snaktype":"value","property":"P244","datavalue":
+{"value":"sh85071063","type":"string"},"datatype":"external-id"},"type":"statement","id":"Q319$F27CE898-67B0-4C94-8DF5-F4253C4BA364","rank":"normal","references":[
+{"hash":"004ec6fbee857649acdbdbad4f97b2c8571df97b","snaks":
+{"P143":[
+{"snaktype":"value","property":"P143","datavalue":
+{"value":
+{"entity-type":"item","numeric-id":48183},"type":"wikibase-entityid"},"datatype":"wikibase-item"}]},"snaks-order":["P143"]}]}],"P2067":[
+{"mainsnak":
+{"snaktype":"value","property":"P2067","datavalue":
+{"value":
+{"amount":"+1898600","unit":"http://www.wikidata.org/entity/Q613726","upperBound":"+1898700","lowerBound":"+1898500"},"type":"quantity"},"datatype":"quantity"},"type":"statement","id":"Q319$adff1d68-4f2f-1418-f175-486aac56362b","rank":"normal"}],"P935":[
+{"mainsnak":
+{"snaktype":"value","property":"P935","datavalue":
+{"value":"Jupiter","type":"string"},"datatype":"string"},"type":"statement","id":"Q319$8F3B5E63-20BA-4FC0-9AE1-FB4C7D6A0C12","rank":"normal"}]},"sitelinks":
+{"afwiki":
+{"site":"afwiki","title":"Jupiter (planeet)","badges":[],"url":"https://af.wikipedia.org/wiki/Jupiter_(planeet)"},"alswiki":
+{"site":"alswiki","title":"Jupiter (Planet)","badges":[],"url":"https://als.wikipedia.org/wiki/Jupiter_(Planet)"},"amwiki":
+{"site":"amwiki","title":"\u1301\u1352\u1270\u122d","badges":[],"url":"https://am.wikipedia.org/wiki/%E1%8C%81%E1%8D%92%E1%89%B0%E1%88%AD"},"angwiki":
+{"site":"angwiki","title":"\u00deunor (tungol)","badges":[],"url":"https://ang.wikipedia.org/wiki/%C3%9Eunor_(tungol)"},"anwiki":
+{"site":"anwiki","title":"Chupiter (planeta)","badges":[],"url":"https://an.wikipedia.org/wiki/Chupiter_(planeta)"},"arwiki":
+{"site":"arwiki","title":"\u0627\u0644\u0645\u0634\u062a\u0631\u064a","badges":["Q17437796"],"url":"https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D8%B4%D8%AA%D8%B1%D9%8A"},"arzwiki":
+{"site":"arzwiki","title":"\u0627\u0644\u0645\u0634\u062a\u0631\u0649","badges":[],"url":"https://arz.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D8%B4%D8%AA%D8%B1%D9%89"},"astwiki":
+{"site":"astwiki","title":"X\u00fapiter (planeta)","badges":[],"url":"https://ast.wikipedia.org/wiki/X%C3%BApiter_(planeta)"},"aswiki":
+{"site":"aswiki","title":"\u09ac\u09c3\u09b9\u09b8\u09cd\u09aa\u09a4\u09bf \u0997\u09cd\u09f0\u09b9","badges":[],"url":"https://as.wikipedia.org/wiki/%E0%A6%AC%E0%A7%83%E0%A6%B9%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A6%A4%E0%A6%BF_%E0%A6%97%E0%A7%8D%E0%A7%B0%E0%A6%B9"},"azbwiki":
+{"site":"azbwiki","title":"\u0645\u0648\u0634\u062a\u0631\u06cc","badges":[],"url":"https://azb.wikipedia.org/wiki/%D9%85%D9%88%D8%B4%D8%AA%D8%B1%DB%8C"},"azwiki":
+{"site":"azwiki","title":"Yupiter (planet)","badges":[],"url":"https://az.wikipedia.org/wiki/Yupiter_(planet)"},"barwiki":
+{"site":"barwiki","title":"Jupiter (Planet)","badges":[],"url":"https://bar.wikipedia.org/wiki/Jupiter_(Planet)"},"bat_smgwiki":
+{"site":"bat_smgwiki","title":"Jop\u0117teris (planeta)","badges":[],"url":"https://bat-smg.wikipedia.org/wiki/Jop%C4%97teris_(planeta)"},"bawiki":
+{"site":"bawiki","title":"\u042e\u043f\u0438\u0442\u0435\u0440","badges":[],"url":"https://ba.wikipedia.org/wiki/%D0%AE%D0%BF%D0%B8%D1%82%D0%B5%D1%80"},"be_x_oldwiki":
+{"site":"be_x_oldwiki","title":"\u042e\u043f\u0456\u0442\u044d\u0440","badges":[],"url":"https://be-tarask.wikipedia.org/wiki/%D0%AE%D0%BF%D1%96%D1%82%D1%8D%D1%80"},"bewiki":
+{"site":"bewiki","title":"\u041f\u043b\u0430\u043d\u0435\u0442\u0430 \u042e\u043f\u0456\u0442\u044d\u0440","badges":["Q17437796"],"url":"https://be.wikipedia.org/wiki/%D0%9F%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0_%D0%AE%D0%BF%D1%96%D1%82%D1%8D%D1%80"},"bgwiki":
+{"site":"bgwiki","title":"\u042e\u043f\u0438\u0442\u0435\u0440 (\u043f\u043b\u0430\u043d\u0435\u0442\u0430)","badges":[],"url":"https://bg.wikipedia.org/wiki/%D0%AE%D0%BF%D0%B8%D1%82%D0%B5%D1%80_(%D0%BF%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0)"},"bhwiki":
+{"site":"bhwiki","title":"\u092c\u0943\u0939\u0938\u094d\u092a\u0924\u093f \u0917\u094d\u0930\u0939","badges":[],"url":"https://bh.wikipedia.org/wiki/%E0%A4%AC%E0%A5%83%E0%A4%B9%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%A4%E0%A4%BF_%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9"},"bjnwiki":
+{"site":"bjnwiki","title":"Jupiter","badges":[],"url":"https://bjn.wikipedia.org/wiki/Jupiter"},"bnwiki":
+{"site":"bnwiki","title":"\u09ac\u09c3\u09b9\u09b8\u09cd\u09aa\u09a4\u09bf \u0997\u09cd\u09b0\u09b9","badges":[],"url":"https://bn.wikipedia.org/wiki/%E0%A6%AC%E0%A7%83%E0%A6%B9%E0%A6%B8%E0%A7%8D%E0%A6%AA%E0%A6%A4%E0%A6%BF_%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%B9"},"bowiki":
+{"site":"bowiki","title":"\u0f55\u0f74\u0f62\u0f0b\u0f56\u0f74\u0f0d","badges":[],"url":"https://bo.wikipedia.org/wiki/%E0%BD%95%E0%BD%B4%E0%BD%A2%E0%BC%8B%E0%BD%96%E0%BD%B4%E0%BC%8D"},"brwiki":
+{"site":"brwiki","title":"Yaou (planedenn)","badges":[],"url":"https://br.wikipedia.org/wiki/Yaou_(planedenn)"},"bswiki":
+{"site":"bswiki","title":"Jupiter","badges":[],"url":"https://bs.wikipedia.org/wiki/Jupiter"},"bxrwiki":
+{"site":"bxrwiki","title":"\u041f\u04af\u0440\u0431\u044d (\u0433\u0430\u0440\u0430\u0433)","badges":[],"url":"https://bxr.wikipedia.org/wiki/%D0%9F%D2%AF%D1%80%D0%B1%D1%8D_(%D0%B3%D0%B0%D1%80%D0%B0%D0%B3)"},"cawiki":
+{"site":"cawiki","title":"J\u00fapiter (planeta)","badges":[],"url":"https://ca.wikipedia.org/wiki/J%C3%BApiter_(planeta)"},"cdowiki":
+{"site":"cdowiki","title":"M\u016dk-s\u012dng","badges":[],"url":"https://cdo.wikipedia.org/wiki/M%C5%ADk-s%C4%ADng"},"cewiki":
+{"site":"cewiki","title":"\u042e\u043f\u0438\u0442\u0435\u0440","badges":[],"url":"https://ce.wikipedia.org/wiki/%D0%AE%D0%BF%D0%B8%D1%82%D0%B5%D1%80"},"chrwiki":
+{"site":"chrwiki","title":"\u13e7\u13c8\u13d3","badges":[],"url":"https://chr.wikipedia.org/wiki/%E1%8F%A7%E1%8F%88%E1%8F%93"},"ckbwiki":
+{"site":"ckbwiki","title":"\u06be\u0648\u0631\u0645\u0632","badges":[],"url":"https://ckb.wikipedia.org/wiki/%DA%BE%D9%88%D8%B1%D9%85%D8%B2"},"commonswiki":
+{"site":"commonswiki","title":"Jupiter","badges":[],"url":"https://commons.wikimedia.org/wiki/Jupiter"},"csbwiki":
+{"site":"csbwiki","title":"Jupiter","badges":[],"url":"https://csb.wikipedia.org/wiki/Jupiter"},"cswiki":
+{"site":"cswiki","title":"Jupiter (planeta)","badges":["Q17437798"],"url":"https://cs.wikipedia.org/wiki/Jupiter_(planeta)"},"cvwiki":
+{"site":"cvwiki","title":"\u042e\u043f\u0438\u0442\u0435\u0440 (\u043f\u043b\u0430\u043d\u0435\u0442\u0430)","badges":[],"url":"https://cv.wikipedia.org/wiki/%D0%AE%D0%BF%D0%B8%D1%82%D0%B5%D1%80_(%D0%BF%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0)"},"cywiki":
+{"site":"cywiki","title":"Iau (planed)","badges":[],"url":"https://cy.wikipedia.org/wiki/Iau_(planed)"},"dawiki":
+{"site":"dawiki","title":"Jupiter (planet)","badges":[],"url":"https://da.wikipedia.org/wiki/Jupiter_(planet)"},"dewiki":
+{"site":"dewiki","title":"Jupiter (Planet)","badges":["Q17437798"],"url":"https://de.wikipedia.org/wiki/Jupiter_(Planet)"},"diqwiki":
+{"site":"diqwiki","title":"Jupiter","badges":[],"url":"https://diq.wikipedia.org/wiki/Jupiter"},"elwiki":
+{"site":"elwiki","title":"\u0394\u03af\u03b1\u03c2 (\u03c0\u03bb\u03b1\u03bd\u03ae\u03c4\u03b7\u03c2)","badges":[],"url":"https://el.wikipedia.org/wiki/%CE%94%CE%AF%CE%B1%CF%82_(%CF%80%CE%BB%CE%B1%CE%BD%CE%AE%CF%84%CE%B7%CF%82)"},"emlwiki":
+{"site":"emlwiki","title":"Z\u00f2bia","badges":[],"url":"https://eml.wikipedia.org/wiki/Z%C3%B2bia"},"enwiki":
+{"site":"enwiki","title":"Jupiter","badges":["Q17437796"],"url":"https://en.wikipedia.org/wiki/Jupiter"},"enwikibooks":
+{"site":"enwikibooks","title":"Solar System/Jupiter","badges":[],"url":"https://en.wikibooks.org/wiki/Solar_System/Jupiter"},"enwikiquote":
+{"site":"enwikiquote","title":"Jupiter","badges":[],"url":"https://en.wikiquote.org/wiki/Jupiter"},"eowiki":
+{"site":"eowiki","title":"Jupitero (planedo)","badges":[],"url":"https://eo.wikipedia.org/wiki/Jupitero_(planedo)"},"eswiki":
+{"site":"eswiki","title":"J\u00fapiter (planeta)","badges":["Q17437796"],"url":"https://es.wikipedia.org/wiki/J%C3%BApiter_(planeta)"},"etwiki":
+{"site":"etwiki","title":"Jupiter","badges":[],"url":"https://et.wikipedia.org/wiki/Jupiter"},"euwiki":
+{"site":"euwiki","title":"Jupiter","badges":[],"url":"https://eu.wikipedia.org/wiki/Jupiter"},"extwiki":
+{"site":"extwiki","title":"J\u00fapiti (praneta)","badges":[],"url":"https://ext.wikipedia.org/wiki/J%C3%BApiti_(praneta)"},"fawiki":
+{"site":"fawiki","title":"\u0645\u0634\u062a\u0631\u06cc (\u0633\u06cc\u0627\u0631\u0647)","badges":[],"url":"https://fa.wikipedia.org/wiki/%D9%85%D8%B4%D8%AA%D8%B1%DB%8C_(%D8%B3%DB%8C%D8%A7%D8%B1%D9%87)"},"fiu_vrowiki":
+{"site":"fiu_vrowiki","title":"Jupit\u00f5r (hod'ot\u00e4ht)","badges":[],"url":"https://fiu-vro.wikipedia.org/wiki/Jupit%C3%B5r_(hod%27ot%C3%A4ht)"},"fiwiki":
+{"site":"fiwiki","title":"Jupiter","badges":[],"url":"https://fi.wikipedia.org/wiki/Jupiter"},"fowiki":
+{"site":"fowiki","title":"Jupiter","badges":[],"url":"https://fo.wikipedia.org/wiki/Jupiter"},"frpwiki":
+{"site":"frpwiki","title":"Jupit\u00e8r (plan\u00e8ta)","badges":[],"url":"https://frp.wikipedia.org/wiki/Jupit%C3%A8r_(plan%C3%A8ta)"},"frrwiki":
+{"site":"frrwiki","title":"Jupiter","badges":[],"url":"https://frr.wikipedia.org/wiki/Jupiter"},"frwiki":
+{"site":"frwiki","title":"Jupiter (plan\u00e8te)","badges":["Q17437796"],"url":"https://fr.wikipedia.org/wiki/Jupiter_(plan%C3%A8te)"},"fywiki":
+{"site":"fywiki","title":"Jupiter","badges":[],"url":"https://fy.wikipedia.org/wiki/Jupiter"},"ganwiki":
+{"site":"ganwiki","title":"\u6728\u661f","badges":[],"url":"https://gan.wikipedia.org/wiki/%E6%9C%A8%E6%98%9F"},"gawiki":
+{"site":"gawiki","title":"I\u00fapatar (pl\u00e1in\u00e9ad)","badges":[],"url":"https://ga.wikipedia.org/wiki/I%C3%BApatar_(pl%C3%A1in%C3%A9ad)"},"gdwiki":
+{"site":"gdwiki","title":"Am Bliogh","badges":[],"url":"https://gd.wikipedia.org/wiki/Am_Bliogh"},"glwiki":
+{"site":"glwiki","title":"X\u00fapiter","badges":[],"url":"https://gl.wikipedia.org/wiki/X%C3%BApiter"},"gnwiki":
+{"site":"gnwiki","title":"H\u00fapiter","badges":[],"url":"https://gn.wikipedia.org/wiki/H%C3%BApiter"},"guwiki":
+{"site":"guwiki","title":"\u0a97\u0ac1\u0ab0\u0ac1 (\u0a97\u0acd\u0ab0\u0ab9)","badges":[],"url":"https://gu.wikipedia.org/wiki/%E0%AA%97%E0%AB%81%E0%AA%B0%E0%AB%81_(%E0%AA%97%E0%AB%8D%E0%AA%B0%E0%AA%B9)"},"gvwiki":
+{"site":"gvwiki","title":"Iupiter","badges":[],"url":"https://gv.wikipedia.org/wiki/Iupiter"},"hakwiki":
+{"site":"hakwiki","title":"Muk-s\u00ean","badges":[],"url":"https://hak.wikipedia.org/wiki/Muk-s%C3%AAn"},"hawwiki":
+{"site":"hawwiki","title":"Ka\u2018\u0101wela","badges":[],"url":"https://haw.wikipedia.org/wiki/Ka%E2%80%98%C4%81wela"},"hewiki":
+{"site":"hewiki","title":"\u05e6\u05d3\u05e7 (\u05db\u05d5\u05db\u05d1 \u05dc\u05db\u05ea)","badges":[],"url":"https://he.wikipedia.org/wiki/%D7%A6%D7%93%D7%A7_(%D7%9B%D7%95%D7%9B%D7%91_%D7%9C%D7%9B%D7%AA)"},"hifwiki":
+{"site":"hifwiki","title":"Brahaspati","badges":[],"url":"https://hif.wikipedia.org/wiki/Brahaspati"},"hiwiki":
+{"site":"hiwiki","title":"\u092c\u0943\u0939\u0938\u094d\u092a\u0924\u093f (\u0917\u094d\u0930\u0939)","badges":[],"url":"https://hi.wikipedia.org/wiki/%E0%A4%AC%E0%A5%83%E0%A4%B9%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%A4%E0%A4%BF_(%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9)"},"hrwiki":
+{"site":"hrwiki","title":"Jupiter","badges":[],"url":"https://hr.wikipedia.org/wiki/Jupiter"},"hsbwiki":
+{"site":"hsbwiki","title":"Jupiter","badges":[],"url":"https://hsb.wikipedia.org/wiki/Jupiter"},"htwiki":
+{"site":"htwiki","title":"Jipit\u00e8 (plan\u00e8t)","badges":[],"url":"https://ht.wikipedia.org/wiki/Jipit%C3%A8_(plan%C3%A8t)"},"huwiki":
+{"site":"huwiki","title":"Jupiter","badges":[],"url":"https://hu.wikipedia.org/wiki/Jupiter"},"hywiki":
+{"site":"hywiki","title":"\u0545\u0578\u0582\u057a\u056b\u057f\u0565\u0580 (\u0574\u0578\u056c\u0578\u0580\u0561\u056f)","badges":["Q17437796"],"url":"https://hy.wikipedia.org/wiki/%D5%85%D5%B8%D6%82%D5%BA%D5%AB%D5%BF%D5%A5%D6%80_(%D5%B4%D5%B8%D5%AC%D5%B8%D6%80%D5%A1%D5%AF)"},"iawiki":
+{"site":"iawiki","title":"Jupiter (planeta)","badges":[],"url":"https://ia.wikipedia.org/wiki/Jupiter_(planeta)"},"idwiki":
+{"site":"idwiki","title":"Yupiter","badges":[],"url":"https://id.wikipedia.org/wiki/Yupiter"},"ilowiki":
+{"site":"ilowiki","title":"Hupiter","badges":[],"url":"https://ilo.wikipedia.org/wiki/Hupiter"},"iowiki":
+{"site":"iowiki","title":"Jupitero","badges":[],"url":"https://io.wikipedia.org/wiki/Jupitero"},"iswiki":
+{"site":"iswiki","title":"J\u00fap\u00edter (reikistjarna)","badges":[],"url":"https://is.wikipedia.org/wiki/J%C3%BAp%C3%ADter_(reikistjarna)"},"itwiki":
+{"site":"itwiki","title":"Giove (astronomia)","badges":["Q17437796"],"url":"https://it.wikipedia.org/wiki/Giove_(astronomia)"},"jawiki":
+{"site":"jawiki","title":"\u6728\u661f","badges":["Q17437798"],"url":"https://ja.wikipedia.org/wiki/%E6%9C%A8%E6%98%9F"},"jbowiki":
+{"site":"jbowiki","title":"iupiter","badges":[],"url":"https://jbo.wikipedia.org/wiki/iupiter"},"jvwiki":
+{"site":"jvwiki","title":"Yupiter","badges":[],"url":"https://jv.wikipedia.org/wiki/Yupiter"},"kawiki":
+{"site":"kawiki","title":"\u10d8\u10e3\u10de\u10d8\u10e2\u10d4\u10e0\u10d8","badges":[],"url":"https://ka.wikipedia.org/wiki/%E1%83%98%E1%83%A3%E1%83%9E%E1%83%98%E1%83%A2%E1%83%94%E1%83%A0%E1%83%98"},"kgwiki":
+{"site":"kgwiki","title":"Sumbula","badges":[],"url":"https://kg.wikipedia.org/wiki/Sumbula"},"kiwiki":
+{"site":"kiwiki","title":"Jupita","badges":[],"url":"https://ki.wikipedia.org/wiki/Jupita"},"kkwiki":
+{"site":"kkwiki","title":"\u042e\u043f\u0438\u0442\u0435\u0440","badges":[],"url":"https://kk.wikipedia.org/wiki/%D0%AE%D0%BF%D0%B8%D1%82%D0%B5%D1%80"},"kmwiki":
+{"site":"kmwiki","title":"\u1797\u1796\u1796\u17d2\u179a\u17a0\u179f\u17d2\u1794\u178f\u17b7\u17cd","badges":[],"url":"https://km.wikipedia.org/wiki/%E1%9E%97%E1%9E%96%E1%9E%96%E1%9F%92%E1%9E%9A%E1%9E%A0%E1%9E%9F%E1%9F%92%E1%9E%94%E1%9E%8F%E1%9E%B7%E1%9F%8D"},"knwiki":
+{"site":"knwiki","title":"\u0c97\u0cc1\u0cb0\u0cc1 (\u0c97\u0ccd\u0cb0\u0cb9)","badges":[],"url":"https://kn.wikipedia.org/wiki/%E0%B2%97%E0%B3%81%E0%B2%B0%E0%B3%81_(%E0%B2%97%E0%B3%8D%E0%B2%B0%E0%B2%B9)"},"kowiki":
+{"site":"kowiki","title":"\ubaa9\uc131","badges":[],"url":"https://ko.wikipedia.org/wiki/%EB%AA%A9%EC%84%B1"},"kshwiki":
+{"site":"kshwiki","title":"Juppitter (Planneet)","badges":[],"url":"https://ksh.wikipedia.org/wiki/Juppitter_(Planneet)"},"kuwiki":
+{"site":"kuwiki","title":"Ber\u00e7\u00ees","badges":[],"url":"https://ku.wikipedia.org/wiki/Ber%C3%A7%C3%AEs"},"kvwiki":
+{"site":"kvwiki","title":"\u042e\u043f\u0438\u0442\u0435\u0440","badges":[],"url":"https://kv.wikipedia.org/wiki/%D0%AE%D0%BF%D0%B8%D1%82%D0%B5%D1%80"},"kwwiki":
+{"site":"kwwiki","title":"Yow (planet)","badges":[],"url":"https://kw.wikipedia.org/wiki/Yow_(planet)"},"kywiki":
+{"site":"kywiki","title":"\u042e\u043f\u0438\u0442\u0435\u0440","badges":[],"url":"https://ky.wikipedia.org/wiki/%D0%AE%D0%BF%D0%B8%D1%82%D0%B5%D1%80"},"lawiki":
+{"site":"lawiki","title":"Iuppiter (planeta)","badges":[],"url":"https://la.wikipedia.org/wiki/Iuppiter_(planeta)"},"lbwiki":
+{"site":"lbwiki","title":"Jupiter (Plan\u00e9it)","badges":[],"url":"https://lb.wikipedia.org/wiki/Jupiter_(Plan%C3%A9it)"},"lezwiki":
+{"site":"lezwiki","title":"\u042e\u043f\u0438\u0442\u0435\u0440","badges":[],"url":"https://lez.wikipedia.org/wiki/%D0%AE%D0%BF%D0%B8%D1%82%D0%B5%D1%80"},"lijwiki":
+{"site":"lijwiki","title":"Gi\u00f2ve (astronomia)","badges":[],"url":"https://lij.wikipedia.org/wiki/Gi%C3%B2ve_(astronomia)"},"liwiki":
+{"site":"liwiki","title":"Jupiter (planeet)","badges":[],"url":"https://li.wikipedia.org/wiki/Jupiter_(planeet)"},"lmowiki":
+{"site":"lmowiki","title":"Giove (pianeta)","badges":[],"url":"https://lmo.wikipedia.org/wiki/Giove_(pianeta)"},"lowiki":
+{"site":"lowiki","title":"\u0e94\u0eb2\u0ea7\u0e9e\u0eb0\u0eab\u0eb1\u0e94","badges":[],"url":"https://lo.wikipedia.org/wiki/%E0%BA%94%E0%BA%B2%E0%BA%A7%E0%BA%9E%E0%BA%B0%E0%BA%AB%E0%BA%B1%E0%BA%94"},"ltwiki":
+{"site":"ltwiki","title":"Jupiteris (planeta)","badges":[],"url":"https://lt.wikipedia.org/wiki/Jupiteris_(planeta)"},"lvwiki":
+{"site":"lvwiki","title":"Jupiters (plan\u0113ta)","badges":[],"url":"https://lv.wikipedia.org/wiki/Jupiters_(plan%C4%93ta)"},"mdfwiki":
+{"site":"mdfwiki","title":"\u042e\u043f\u0438\u0442\u0435\u0440\u044c (\u0448\u0430\u0440\u044b \u0442\u044f\u0448\u0442\u0435)","badges":[],"url":"https://mdf.wikipedia.org/wiki/%D0%AE%D0%BF%D0%B8%D1%82%D0%B5%D1%80%D1%8C_(%D1%88%D0%B0%D1%80%D1%8B_%D1%82%D1%8F%D1%88%D1%82%D0%B5)"},"mkwiki":
+{"site":"mkwiki","title":"\u0408\u0443\u043f\u0438\u0442\u0435\u0440","badges":[],"url":"https://mk.wikipedia.org/wiki/%D0%88%D1%83%D0%BF%D0%B8%D1%82%D0%B5%D1%80"},"mlwiki":
+{"site":"mlwiki","title":"\u0d35\u0d4d\u0d2f\u0d3e\u0d34\u0d02","badges":["Q17437796"],"url":"https://ml.wikipedia.org/wiki/%E0%B4%B5%E0%B5%8D%E0%B4%AF%E0%B4%BE%E0%B4%B4%E0%B4%82"},"mnwiki":
+{"site":"mnwiki","title":"\u0411\u0430\u0440\u0445\u0430\u0441\u0431\u0430\u0434\u044c","badges":[],"url":"https://mn.wikipedia.org/wiki/%D0%91%D0%B0%D1%80%D1%85%D0%B0%D1%81%D0%B1%D0%B0%D0%B4%D1%8C"},"mrwiki":
+{"site":"mrwiki","title":"\u0917\u0941\u0930\u0942 \u0917\u094d\u0930\u0939","badges":[],"url":"https://mr.wikipedia.org/wiki/%E0%A4%97%E0%A5%81%E0%A4%B0%E0%A5%82_%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9"},"mswiki":
+{"site":"mswiki","title":"Musytari","badges":[],"url":"https://ms.wikipedia.org/wiki/Musytari"},"mtwiki":
+{"site":"mtwiki","title":"\u0120ove (pjaneta)","badges":[],"url":"https://mt.wikipedia.org/wiki/%C4%A0ove_(pjaneta)"},"mwlwiki":
+{"site":"mwlwiki","title":"J\u00fapiter (planeta)","badges":[],"url":"https://mwl.wikipedia.org/wiki/J%C3%BApiter_(planeta)"},"mywiki":
+{"site":"mywiki","title":"\u1000\u103c\u102c\u101e\u1015\u1010\u1031\u1038\u1002\u103c\u102d\u102f\u101f\u103a","badges":[],"url":"https://my.wikipedia.org/wiki/%E1%80%80%E1%80%BC%E1%80%AC%E1%80%9E%E1%80%95%E1%80%90%E1%80%B1%E1%80%B8%E1%80%82%E1%80%BC%E1%80%AD%E1%80%AF%E1%80%9F%E1%80%BA"},"mznwiki":
+{"site":"mznwiki","title":"\u0645\u0634\u062a\u0631\u06cc","badges":[],"url":"https://mzn.wikipedia.org/wiki/%D9%85%D8%B4%D8%AA%D8%B1%DB%8C"},"nahwiki":
+{"site":"nahwiki","title":"Hu\u0113yitzitzimic\u012btlalli","badges":[],"url":"https://nah.wikipedia.org/wiki/Hu%C4%93yitzitzimic%C4%ABtlalli"},"napwiki":
+{"site":"napwiki","title":"Giove","badges":[],"url":"https://nap.wikipedia.org/wiki/Giove"},"nds_nlwiki":
+{"site":"nds_nlwiki","title":"Jupiter (planeet)","badges":[],"url":"https://nds-nl.wikipedia.org/wiki/Jupiter_(planeet)"},"ndswiki":
+{"site":"ndswiki","title":"Jupiter (Planet)","badges":[],"url":"https://nds.wikipedia.org/wiki/Jupiter_(Planet)"},"newiki":
+{"site":"newiki","title":"\u092c\u0943\u0939\u0938\u094d\u092a\u0924\u093f\u0917\u094d\u0930\u0939","badges":[],"url":"https://ne.wikipedia.org/wiki/%E0%A4%AC%E0%A5%83%E0%A4%B9%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%A4%E0%A4%BF%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9"},"newwiki":
+{"site":"newwiki","title":"\u0935\u0943\u0939\u0938\u094d\u092a\u0924\u093f \u0917\u094d\u0930\u0939","badges":[],"url":"https://new.wikipedia.org/wiki/%E0%A4%B5%E0%A5%83%E0%A4%B9%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A4%A4%E0%A4%BF_%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9"},"nlwiki":
+{"site":"nlwiki","title":"Jupiter (planeet)","badges":[],"url":"https://nl.wikipedia.org/wiki/Jupiter_(planeet)"},"nnwiki":
+{"site":"nnwiki","title":"Planeten Jupiter","badges":[],"url":"https://nn.wikipedia.org/wiki/Planeten_Jupiter"},"novwiki":
+{"site":"novwiki","title":"Jupitere (planete)","badges":[],"url":"https://nov.wikipedia.org/wiki/Jupitere_(planete)"},"nowiki":
+{"site":"nowiki","title":"Jupiter","badges":["Q17437796"],"url":"https://no.wikipedia.org/wiki/Jupiter"},"nvwiki":
+{"site":"nvwiki","title":"J\u00edbitoo","badges":[],"url":"https://nv.wikipedia.org/wiki/J%C3%ADbitoo"},"ocwiki":
+{"site":"ocwiki","title":"Jupit\u00e8r (planeta)","badges":["Q17437798"],"url":"https://oc.wikipedia.org/wiki/Jupit%C3%A8r_(planeta)"},"orwiki":
+{"site":"orwiki","title":"\u0b2c\u0b43\u0b39\u0b38\u0b4d\u0b2a\u0b24\u0b3f","badges":[],"url":"https://or.wikipedia.org/wiki/%E0%AC%AC%E0%AD%83%E0%AC%B9%E0%AC%B8%E0%AD%8D%E0%AC%AA%E0%AC%A4%E0%AC%BF"},"oswiki":
+{"site":"oswiki","title":"\u042e\u043f\u0438\u0442\u0435\u0440 (\u043f\u043b\u0430\u043d\u0435\u0442\u00e6)","badges":[],"url":"https://os.wikipedia.org/wiki/%D0%AE%D0%BF%D0%B8%D1%82%D0%B5%D1%80_(%D0%BF%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%C3%A6)"},"pamwiki":
+{"site":"pamwiki","title":"Jupiter","badges":[],"url":"https://pam.wikipedia.org/wiki/Jupiter"},"pawiki":
+{"site":"pawiki","title":"\u0a2c\u0a4d\u0a30\u0a39\u0a3f\u0a38\u0a2a\u0a24 (\u0a17\u0a4d\u0a30\u0a39\u0a3f)","badges":[],"url":"https://pa.wikipedia.org/wiki/%E0%A8%AC%E0%A9%8D%E0%A8%B0%E0%A8%B9%E0%A8%BF%E0%A8%B8%E0%A8%AA%E0%A8%A4_(%E0%A8%97%E0%A9%8D%E0%A8%B0%E0%A8%B9%E0%A8%BF)"},"pflwiki":
+{"site":"pflwiki","title":"Jupiter (Planet)","badges":[],"url":"https://pfl.wikipedia.org/wiki/Jupiter_(Planet)"},"plwiki":
+{"site":"plwiki","title":"Jowisz","badges":["Q17437798"],"url":"https://pl.wikipedia.org/wiki/Jowisz"},"pmswiki":
+{"site":"pmswiki","title":"Gieuv (pianeta)","badges":[],"url":"https://pms.wikipedia.org/wiki/Gieuv_(pianeta)"},"pnbwiki":
+{"site":"pnbwiki","title":"\u0645\u0634\u062a\u0631\u06cc","badges":[],"url":"https://pnb.wikipedia.org/wiki/%D9%85%D8%B4%D8%AA%D8%B1%DB%8C"},"pswiki":
+{"site":"pswiki","title":"\u0645\u0634\u062a\u0631\u064a","badges":[],"url":"https://ps.wikipedia.org/wiki/%D9%85%D8%B4%D8%AA%D8%B1%D9%8A"},"ptwiki":
+{"site":"ptwiki","title":"J\u00fapiter (planeta)","badges":["Q17437796"],"url":"https://pt.wikipedia.org/wiki/J%C3%BApiter_(planeta)"},"quwiki":
+{"site":"quwiki","title":"Pirwa","badges":[],"url":"https://qu.wikipedia.org/wiki/Pirwa"},"rmwiki":
+{"site":"rmwiki","title":"Jupiter (planet)","badges":[],"url":"https://rm.wikipedia.org/wiki/Jupiter_(planet)"},"roa_rupwiki":
+{"site":"roa_rupwiki","title":"Jupiter","badges":[],"url":"https://roa-rup.wikipedia.org/wiki/Jupiter"},"rowiki":
+{"site":"rowiki","title":"Jupiter","badges":[],"url":"https://ro.wikipedia.org/wiki/Jupiter"},"ruewiki":
+{"site":"ruewiki","title":"\u042e\u043f\u0456\u0442\u0435\u0440 (\u043f\u043b\u0430\u043d\u0435\u0442\u0430)","badges":[],"url":"https://rue.wikipedia.org/wiki/%D0%AE%D0%BF%D1%96%D1%82%D0%B5%D1%80_(%D0%BF%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0)"},"ruwiki":
+{"site":"ruwiki","title":"\u042e\u043f\u0438\u0442\u0435\u0440","badges":["Q17437796"],"url":"https://ru.wikipedia.org/wiki/%D0%AE%D0%BF%D0%B8%D1%82%D0%B5%D1%80"},"ruwikinews":
+{"site":"ruwikinews","title":"\u041a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u044f:\u042e\u043f\u0438\u0442\u0435\u0440","badges":[],"url":"https://ru.wikinews.org/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%AE%D0%BF%D0%B8%D1%82%D0%B5%D1%80"},"ruwikiquote":
+{"site":"ruwikiquote","title":"\u042e\u043f\u0438\u0442\u0435\u0440 (\u043f\u043b\u0430\u043d\u0435\u0442\u0430)","badges":[],"url":"https://ru.wikiquote.org/wiki/%D0%AE%D0%BF%D0%B8%D1%82%D0%B5%D1%80_(%D0%BF%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0)"},"sahwiki":
+{"site":"sahwiki","title":"\u042e\u043f\u0438\u0442\u0435\u0440","badges":[],"url":"https://sah.wikipedia.org/wiki/%D0%AE%D0%BF%D0%B8%D1%82%D0%B5%D1%80"},"sawiki":
+{"site":"sawiki","title":"\u0917\u0941\u0930\u0941\u0917\u094d\u0930\u0939\u0903","badges":[],"url":"https://sa.wikipedia.org/wiki/%E0%A4%97%E0%A5%81%E0%A4%B0%E0%A5%81%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%B9%E0%A4%83"},"scnwiki":
+{"site":"scnwiki","title":"Giovi (pianeta)","badges":["Q17437796"],"url":"https://scn.wikipedia.org/wiki/Giovi_(pianeta)"},"scowiki":
+{"site":"scowiki","title":"Jupiter","badges":[],"url":"https://sco.wikipedia.org/wiki/Jupiter"},"scwiki":
+{"site":"scwiki","title":"Jove","badges":[],"url":"https://sc.wikipedia.org/wiki/Jove"},"sewiki":
+{"site":"sewiki","title":"Jupiter","badges":[],"url":"https://se.wikipedia.org/wiki/Jupiter"},"shwiki":
+{"site":"shwiki","title":"Jupiter","badges":[],"url":"https://sh.wikipedia.org/wiki/Jupiter"},"simplewiki":
+{"site":"simplewiki","title":"Jupiter","badges":["Q17437796"],"url":"https://simple.wikipedia.org/wiki/Jupiter"},"siwiki":
+{"site":"siwiki","title":"\u0db6\u0dca\u200d\u0dbb\u0dc4\u0dc3\u0dca\u0db4\u0dad\u0dd2 \u0d9c\u0dca\u200d\u0dbb\u0dc4\u0dba\u0dcf","badges":[],"url":"https://si.wikipedia.org/wiki/%E0%B6%B6%E0%B7%8A%E2%80%8D%E0%B6%BB%E0%B7%84%E0%B7%83%E0%B7%8A%E0%B6%B4%E0%B6%AD%E0%B7%92_%E0%B6%9C%E0%B7%8A%E2%80%8D%E0%B6%BB%E0%B7%84%E0%B6%BA%E0%B7%8F"},"skwiki":
+{"site":"skwiki","title":"Jupiter","badges":["Q17437798"],"url":"https://sk.wikipedia.org/wiki/Jupiter"},"slwiki":
+{"site":"slwiki","title":"Jupiter","badges":["Q17437796"],"url":"https://sl.wikipedia.org/wiki/Jupiter"},"sowiki":
+{"site":"sowiki","title":"Cirjeex","badges":[],"url":"https://so.wikipedia.org/wiki/Cirjeex"},"sqwiki":
+{"site":"sqwiki","title":"Jupiteri","badges":[],"url":"https://sq.wikipedia.org/wiki/Jupiteri"},"srwiki":
+{"site":"srwiki","title":"\u0408\u0443\u043f\u0438\u0442\u0435\u0440","badges":[],"url":"https://sr.wikipedia.org/wiki/%D0%88%D1%83%D0%BF%D0%B8%D1%82%D0%B5%D1%80"},"stqwiki":
+{"site":"stqwiki","title":"Jupiter","badges":[],"url":"https://stq.wikipedia.org/wiki/Jupiter"},"suwiki":
+{"site":"suwiki","title":"Jupiter","badges":[],"url":"https://su.wikipedia.org/wiki/Jupiter"},"svwiki":
+{"site":"svwiki","title":"Jupiter","badges":[],"url":"https://sv.wikipedia.org/wiki/Jupiter"},"swwiki":
+{"site":"swwiki","title":"Mshtarii","badges":[],"url":"https://sw.wikipedia.org/wiki/Mshtarii"},"szlwiki":
+{"site":"szlwiki","title":"Jowisz","badges":[],"url":"https://szl.wikipedia.org/wiki/Jowisz"},"tawiki":
+{"site":"tawiki","title":"\u0bb5\u0bbf\u0baf\u0bbe\u0bb4\u0ba9\u0bcd (\u0b95\u0bcb\u0bb3\u0bcd)","badges":[],"url":"https://ta.wikipedia.org/wiki/%E0%AE%B5%E0%AE%BF%E0%AE%AF%E0%AE%BE%E0%AE%B4%E0%AE%A9%E0%AF%8D_(%E0%AE%95%E0%AF%8B%E0%AE%B3%E0%AF%8D)"},"tewiki":
+{"site":"tewiki","title":"\u0c17\u0c41\u0c30\u0c41\u0c21\u0c41","badges":[],"url":"https://te.wikipedia.org/wiki/%E0%B0%97%E0%B1%81%E0%B0%B0%E0%B1%81%E0%B0%A1%E0%B1%81"},"tgwiki":
+{"site":"tgwiki","title":"\u041c\u0443\u0448\u0442\u0430\u0440\u04e3","badges":[],"url":"https://tg.wikipedia.org/wiki/%D0%9C%D1%83%D1%88%D1%82%D0%B0%D1%80%D3%A3"},"thwiki":
+{"site":"thwiki","title":"\u0e14\u0e32\u0e27\u0e1e\u0e24\u0e2b\u0e31\u0e2a\u0e1a\u0e14\u0e35","badges":[],"url":"https://th.wikipedia.org/wiki/%E0%B8%94%E0%B8%B2%E0%B8%A7%E0%B8%9E%E0%B8%A4%E0%B8%AB%E0%B8%B1%E0%B8%AA%E0%B8%9A%E0%B8%94%E0%B8%B5"},"tkwiki":
+{"site":"tkwiki","title":"\u00ddupiter","badges":[],"url":"https://tk.wikipedia.org/wiki/%C3%9Dupiter"},"tlwiki":
+{"site":"tlwiki","title":"Hupiter (planeta)","badges":[],"url":"https://tl.wikipedia.org/wiki/Hupiter_(planeta)"},"trwiki":
+{"site":"trwiki","title":"J\u00fcpiter","badges":[],"url":"https://tr.wikipedia.org/wiki/J%C3%BCpiter"},"ttwiki":
+{"site":"ttwiki","title":"\u042e\u043f\u0438\u0442\u0435\u0440 (\u043f\u043b\u0430\u043d\u0435\u0442\u0430)","badges":[],"url":"https://tt.wikipedia.org/wiki/%D0%AE%D0%BF%D0%B8%D1%82%D0%B5%D1%80_(%D0%BF%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0)"},"tyvwiki":
+{"site":"tyvwiki","title":"\u042e\u043f\u0438\u0442\u0435\u0440","badges":[],"url":"https://tyv.wikipedia.org/wiki/%D0%AE%D0%BF%D0%B8%D1%82%D0%B5%D1%80"},"ugwiki":
+{"site":"ugwiki","title":"\u064a\u06c7\u067e\u0649\u062a\u06d0\u0631","badges":[],"url":"https://ug.wikipedia.org/wiki/%D9%8A%DB%87%D9%BE%D9%89%D8%AA%DB%90%D8%B1"},"ukwiki":
+{"site":"ukwiki","title":"\u042e\u043f\u0456\u0442\u0435\u0440 (\u043f\u043b\u0430\u043d\u0435\u0442\u0430)","badges":[],"url":"https://uk.wikipedia.org/wiki/%D0%AE%D0%BF%D1%96%D1%82%D0%B5%D1%80_(%D0%BF%D0%BB%D0%B0%D0%BD%D0%B5%D1%82%D0%B0)"},"urwiki":
+{"site":"urwiki","title":"\u0645\u0634\u062a\u0631\u06cc","badges":["Q17437796"],"url":"https://ur.wikipedia.org/wiki/%D9%85%D8%B4%D8%AA%D8%B1%DB%8C"},"urwikiquote":
+{"site":"urwikiquote","title":"\u0645\u0634\u062a\u0631\u06cc","badges":[],"url":"https://ur.wikiquote.org/wiki/%D9%85%D8%B4%D8%AA%D8%B1%DB%8C"},"uzwiki":
+{"site":"uzwiki","title":"Yupiter","badges":[],"url":"https://uz.wikipedia.org/wiki/Yupiter"},"vecwiki":
+{"site":"vecwiki","title":"Xove (astronomia)","badges":[],"url":"https://vec.wikipedia.org/wiki/Xove_(astronomia)"},"vepwiki":
+{"site":"vepwiki","title":"Jupiter (planet)","badges":[],"url":"https://vep.wikipedia.org/wiki/Jupiter_(planet)"},"viwiki":
+{"site":"viwiki","title":"Sao M\u1ed9c","badges":["Q17437796"],"url":"https://vi.wikipedia.org/wiki/Sao_M%E1%BB%99c"},"vlswiki":
+{"site":"vlswiki","title":"Jupiter (planete)","badges":[],"url":"https://vls.wikipedia.org/wiki/Jupiter_(planete)"},"vowiki":
+{"site":"vowiki","title":"Yupiter","badges":[],"url":"https://vo.wikipedia.org/wiki/Yupiter"},"warwiki":
+{"site":"warwiki","title":"Hupiter","badges":[],"url":"https://war.wikipedia.org/wiki/Hupiter"},"wowiki":
+{"site":"wowiki","title":"Yupiter","badges":[],"url":"https://wo.wikipedia.org/wiki/Yupiter"},"wuuwiki":
+{"site":"wuuwiki","title":"\u6728\u661f","badges":[],"url":"https://wuu.wikipedia.org/wiki/%E6%9C%A8%E6%98%9F"},"xalwiki":
+{"site":"xalwiki","title":"\u041f\u04af\u0440\u0432\u0259 \u04bb\u0430\u0440\u0438\u0433","badges":[],"url":"https://xal.wikipedia.org/wiki/%D0%9F%D2%AF%D1%80%D0%B2%C9%99_%D2%BB%D0%B0%D1%80%D0%B8%D0%B3"},"xmfwiki":
+{"site":"xmfwiki","title":"\u10d3\u10d8\u10d0 (\u10de\u10da\u10d0\u10dc\u10d4\u10e2\u10d0)","badges":[],"url":"https://xmf.wikipedia.org/wiki/%E1%83%93%E1%83%98%E1%83%90_(%E1%83%9E%E1%83%9A%E1%83%90%E1%83%9C%E1%83%94%E1%83%A2%E1%83%90)"},"yiwiki":
+{"site":"yiwiki","title":"\u05d9\u05d5\u05e4\u05d9\u05d8\u05e2\u05e8","badges":[],"url":"https://yi.wikipedia.org/wiki/%D7%99%D7%95%D7%A4%D7%99%D7%98%D7%A2%D7%A8"},"yowiki":
+{"site":"yowiki","title":"J\u00fap\u00edt\u00e9r\u00ec","badges":["Q17437796"],"url":"https://yo.wikipedia.org/wiki/J%C3%BAp%C3%ADt%C3%A9r%C3%AC"},"zawiki":
+{"site":"zawiki","title":"Ndaundeiqfaex","badges":[],"url":"https://za.wikipedia.org/wiki/Ndaundeiqfaex"},"zeawiki":
+{"site":"zeawiki","title":"Jupiter (planete)","badges":[],"url":"https://zea.wikipedia.org/wiki/Jupiter_(planete)"},"zh_classicalwiki":
+{"site":"zh_classicalwiki","title":"\u6b72\u661f","badges":[],"url":"https://zh-classical.wikipedia.org/wiki/%E6%AD%B2%E6%98%9F"},"zh_min_nanwiki":
+{"site":"zh_min_nanwiki","title":"Bo\u030dk-chhe\u207f","badges":[],"url":"https://zh-min-nan.wikipedia.org/wiki/Bo%CC%8Dk-chhe%E2%81%BF"},"zh_yuewiki":
+{"site":"zh_yuewiki","title":"\u6728\u661f","badges":[],"url":"https://zh-yue.wikipedia.org/wiki/%E6%9C%A8%E6%98%9F"},"zhwiki":
+{"site":"zhwiki","title":"\u6728\u661f","badges":[],"url":"https://zh.wikipedia.org/wiki/%E6%9C%A8%E6%98%9F"}}}}}

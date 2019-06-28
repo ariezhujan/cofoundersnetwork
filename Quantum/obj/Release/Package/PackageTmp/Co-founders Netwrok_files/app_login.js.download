@@ -1,0 +1,95 @@
+$("#app_main_loginform_send").click(function(){
+	var username = $("#app_login_email").val();
+	var password = $("#app_login_password").val();
+	
+	if(username === "" || password === ""){
+		popout("Please provide your username and password to signin !");
+	}
+	else{
+		$("#app_blockout").fadeIn();
+		$("#app_blockout").css("display", "table");
+		$("#app_blockout_state").html('<i class="fa fa-refresh fa-spin"></i> Please wait');
+		
+		$.ajax({
+			type: "POST",
+			url: assign_url,
+			dataType: "json",
+			data:{
+				flag: "login",
+				username: username,
+				password : password
+			},
+			success: function (login){
+				$("#app_blockout").fadeOut();
+				
+				$("#app_login_email").val('');
+				$("#app_login_password").val('');
+				
+				if(login.valid === 1){
+					$(".btn_login").hide();
+					$(".btn_signup").hide();
+					
+					$(".btn_profile").show();
+					
+					resetter("#app_main");
+					crazyter(".page_main");
+					localStorage.setItem("cofounder_session", login.username);
+					
+					check_profile();
+					check_notifbar();
+					
+					$("#app_price_free_before").hide();
+					$("#app_price_mid_before").hide();
+					$("#app_price_last_before").hide();
+					
+					$("#app_price_free_after").show();
+					$("#app_price_mid_after").show();
+					$("#app_price_last_after").show();
+					
+				}
+				else if(login.valid === 2){
+					$(".btn_login").show();
+					$(".btn_signup").show();
+					
+					$(".btn_profile").hide();
+					
+					popout("Invalid email or password, please try again !");
+					
+					$("#app_price_free_before").hide();
+					$("#app_price_mid_before").hide();
+					$("#app_price_last_before").hide();
+					
+					$("#app_price_free_after").show();
+					$("#app_price_mid_after").show();
+					$("#app_price_last_after").show();
+					$("#app_price_last_after").show();
+				}
+				else{
+					popout("Services error, please try again !");
+					
+					$("#app_price_free_before").hide();
+					$("#app_price_mid_before").hide();
+					$("#app_price_last_before").hide();
+					
+					$("#app_price_free_after").hide();
+					$("#app_price_mid_after").hide();
+					$("#app_price_last_after").hide();
+				}
+			},
+			error: function(){
+				popout("Connection error, please try again !");
+				
+				$("#app_price_free_before").hide();
+				$("#app_price_mid_before").hide();
+				$("#app_price_last_before").hide();
+				
+				$("#app_price_free_after").hide();
+				$("#app_price_mid_after").hide();
+				$("#app_price_last_after").hide();
+			}
+		});
+	}
+	
+	$("#app_main_loginform").slideUp();
+	$("#app_main_login").fadeIn();
+});

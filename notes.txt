@@ -1,0 +1,24 @@
+ParseLinks() - Gets the details, links and wikidata for a single tag
+GetWikidataForPage() - Gets all the wikidata links for a single tag{
+  "mainsnak": {
+    "snaktype": "value",
+    "property": "P31",
+    "datavalue": {
+      "value": {
+        "entity-type": "item",
+        "numeric-id": 121750
+      },
+      "type": "wikibase-entityid"
+    },
+    "datatype": "wikibase-item"
+  },
+  "type": "statement",
+  "id": "Q319$f93995ff-41a2-457d-e9db-5a6ef8566dd5",
+  "rank": "normal"
+}
+
+
+Public DNS	ec2-52-62-170-187.ap-southeast-2.compute.amazonaws.com
+User name	Administrator
+Password	
+xncJ!y9H77

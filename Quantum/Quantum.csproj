@@ -1,0 +1,692 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{D9271FC7-4770-416E-8A85-0AFBD29A29E1}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Quantum</RootNamespace>
+    <AssemblyName>Quantum</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <UseIISExpress>false</UseIISExpress>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>4.0</OldToolsVersion>
+    <TargetFrameworkProfile />
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Brettle.Web.NeatUpload, Version=1.3.3798.663, Culture=neutral, PublicKeyToken=c95290d92c5893c8">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\QuantumLibrary\bin\Brettle.Web.NeatUpload.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Recaptcha, Version=1.0.5.0, Culture=neutral, PublicKeyToken=9afc4d65b28c38c2, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Recaptcha.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="About.aspx" />
+    <Content Include="Account\ChangePassword.aspx" />
+    <Content Include="Account\ChangePasswordSuccess.aspx" />
+    <Content Include="Account\Login.aspx" />
+    <Content Include="Account\Register.aspx" />
+    <Content Include="Co-founders Netwrok_files\blog1.jpg" />
+    <Content Include="Hustlers.aspx" />
+    <Content Include="Co-founders Netwrok_files\323518-P9MHS8-840.jpg" />
+    <Content Include="Co-founders Netwrok_files\animate_FOR_BLOG.min.css" />
+    <Content Include="Co-founders Netwrok_files\astronaut-3751046_640.png" />
+    <Content Include="Co-founders Netwrok_files\automobile-2046959_640.png" />
+    <Content Include="Co-founders Netwrok_files\birdhouse-48532_640.png" />
+    <Content Include="Co-founders Netwrok_files\black1.jpg" />
+    <Content Include="Co-founders Netwrok_files\blog1.png" />
+    <Content Include="Co-founders Netwrok_files\blog2.jpg" />
+    <Content Include="Co-founders Netwrok_files\blog2.png" />
+    <Content Include="Co-founders Netwrok_files\bootstrap-4.1.3.css" />
+    <Content Include="Co-founders Netwrok_files\bootstrap-4.1.3.js" />
+    <Content Include="Co-founders Netwrok_files\bootstrap.min.css" />
+    <Content Include="Co-founders Netwrok_files\branches-2740419_640.png" />
+    <Content Include="Co-founders Netwrok_files\building.jpg" />
+    <Content Include="Co-founders Netwrok_files\building1.jpg" />
+    <Content Include="Co-founders Netwrok_files\business-3080799_640.png" />
+    <Content Include="Co-founders Netwrok_files\businessman-1600975_640.png" />
+    <Content Include="Co-founders Netwrok_files\calender-2389150_640.png" />
+    <Content Include="Co-founders Netwrok_files\city-1294304_640.png" />
+    <Content Include="Co-founders Netwrok_files\city-1296581_640.png" />
+    <Content Include="Co-founders Netwrok_files\clock-2389255_640.png" />
+    <Content Include="Co-founders Netwrok_files\cover-signup.jpg" />
+    <Content Include="Co-founders Netwrok_files\custom.style.css" />
+    <Content Include="Co-founders Netwrok_files\d.jpg" />
+    <Content Include="Co-founders Netwrok_files\dandelion-2728872_640.png" />
+    <Content Include="Co-founders Netwrok_files\Default.aspx" />
+    <Content Include="Co-founders Netwrok_files\defaultpage.jpg" />
+    <Content Include="Co-founders Netwrok_files\duo-people.jpg" />
+    <Content Include="Co-founders Netwrok_files\folder-2389217_640.png" />
+    <Content Include="Co-founders Netwrok_files\font-awesome.min.css" />
+    <Content Include="Co-founders Netwrok_files\footer-maps.jpg" />
+    <Content Include="Co-founders Netwrok_files\girl-1424994_640.png" />
+    <Content Include="Co-founders Netwrok_files\howwework_01.png" />
+    <Content Include="Co-founders Netwrok_files\howwework_02.png" />
+    <Content Include="Co-founders Netwrok_files\human.jpg" />
+    <Content Include="Co-founders Netwrok_files\hustler.jpg" />
+    <Content Include="Co-founders Netwrok_files\ionicons_FOR_BLOG.min.css" />
+    <Content Include="Co-founders Netwrok_files\jquery-3.3.1.js" />
+    <Content Include="Co-founders Netwrok_files\kids-3171905_1280.png" />
+    <Content Include="Co-founders Netwrok_files\lamp-footer.jpg" />
+    <Content Include="Co-founders Netwrok_files\lamp.jpg" />
+    <Content Include="Co-founders Netwrok_files\list-2389219_640.png" />
+    <Content Include="Co-founders Netwrok_files\logo.png" />
+    <Content Include="Co-founders Netwrok_files\man-1600948_640.png" />
+    <Content Include="Co-founders Netwrok_files\man-1600958_640.png" />
+    <Content Include="Co-founders Netwrok_files\man-1600959_640.png" />
+    <Content Include="Co-founders Netwrok_files\maps-people.jpg" />
+    <Content Include="Co-founders Netwrok_files\materialize\css\materialize.css" />
+    <Content Include="Co-founders Netwrok_files\materialize\css\materialize.min.css" />
+    <Content Include="Co-founders Netwrok_files\materialize\js\jquery-3.3.1.js" />
+    <Content Include="Co-founders Netwrok_files\materialize\js\materialize.js" />
+    <Content Include="Co-founders Netwrok_files\materialize\js\materialize.min.js" />
+    <Content Include="Co-founders Netwrok_files\media-774068_640.png" />
+    <Content Include="Co-founders Netwrok_files\mouse-1412284_640.png" />
+    <Content Include="Co-founders Netwrok_files\mystyle.css" />
+    <Content Include="Co-founders Netwrok_files\new_user.png" />
+    <Content Include="Co-founders Netwrok_files\note-2389227_640.png" />
+    <Content Include="Co-founders Netwrok_files\OEVPWU0.jpg" />
+    <Content Include="Co-founders Netwrok_files\office-2282145_640.png" />
+    <Content Include="Co-founders Netwrok_files\pencils %281%29.jpg" />
+    <Content Include="Co-founders Netwrok_files\people_01.png" />
+    <Content Include="Co-founders Netwrok_files\people_02.png" />
+    <Content Include="Co-founders Netwrok_files\people_03.png" />
+    <Content Include="Co-founders Netwrok_files\portofolio.png" />
+    <Content Include="Co-founders Netwrok_files\presentation-1600942_640.png" />
+    <Content Include="Co-founders Netwrok_files\puzzle-3155663_1280.png" />
+    <Content Include="Co-founders Netwrok_files\road.jpg" />
+    <Content Include="Co-founders Netwrok_files\rocket.png" />
+    <Content Include="Co-founders Netwrok_files\SG-EPS-01-0001.jpg" />
+    <Content Include="Co-founders Netwrok_files\space-shipp.jpg" />
+    <Content Include="Co-founders Netwrok_files\square-2721757_1280.png" />
+    <Content Include="Co-founders Netwrok_files\start_up.jpg" />
+    <Content Include="Co-founders Netwrok_files\style_FOR_BLOG.css" />
+    <Content Include="Co-founders Netwrok_files\tangga - Copy.jpeg" />
+    <Content Include="Co-founders Netwrok_files\tangga.jpeg" />
+    <Content Include="Co-founders Netwrok_files\tools-2282313_640.png" />
+    <Content Include="Co-founders Netwrok_files\town-road.jpg" />
+    <Content Include="Co-founders Netwrok_files\traffic-light-2411796_640.png" />
+    <Content Include="Co-founders Netwrok_files\why_cofounder.png" />
+    <Content Include="Co-founders Netwrok_files\why_colaborate.png" />
+    <Content Include="Co-founders Netwrok_files\why_investment.png" />
+    <Content Include="Co-founders Netwrok_files\woman-1600980_640.png" />
+    <Content Include="Co-founders Netwrok_files\woman-1601002_640.png" />
+    <Content Include="Co-founders Netwrok_files\world-map.png" />
+    <Content Include="Contact.aspx" />
+    <Content Include="Forum_Thread.aspx" />
+    <Content Include="HowItWorks.aspx" />
+    <Content Include="Img\ajax-loader.gif" />
+    <Content Include="Img\team\ar.jpg" />
+    <Content Include="Img\team\ef.jpg" />
+    <Content Include="Img\team\j.JPG" />
+    <Content Include="Img\team\jc.jpg" />
+    <Content Include="Img\team\kg.jpg" />
+    <Content Include="Img\team\ss.jpg" />
+    <Content Include="libs\summernote\0.8.11\lang\summernote-ar-AR.js" />
+    <Content Include="libs\summernote\0.8.11\lang\summernote-bg-BG.js" />
+    <Content Include="libs\summernote\0.8.11\lang\summernote-ca-ES.js" />
+    <Content Include="libs\summernote\0.8.11\lang\summernote-cs-CZ.js" />
+    <Content Include="libs\summernote\0.8.11\lang\summernote-da-DK.js" />
+    <Content Include="libs\summernote\0.8.11\lang\summernote-de-DE.js" />
+    <Content Include="libs\summernote\0.8.11\lang\summernote-el-GR.js" />
+    <Content Include="libs\summernote\0.8.11\lang\summernote-es-ES.js" />
+    <Content Include="libs\summernote\0.8.11\lang\summernote-es-EU.js" />
+    <Content Include="libs\summernote\0.8.11\lang\summernote-fa-IR.js" />
+    <Content Include="libs\summernote\0.8.11\lang\summernote-fi-FI.js" />
+    <Content Include="libs\summernote\0.8.11\lang\summernote-fr-FR.js" />
+    <Content Include="libs\summernote\0.8.11\lang\summernote-gl-ES.js" />
+    <Content Include="libs\summernote\0.8.11\lang\summernote-he-IL.js" />
+    <Content Include="libs\summernote\0.8.11\lang\summernote-hr-HR.js" />
+    <Content Include="libs\summernote\0.8.11\lang\summernote-hu-HU.js" />
+    <Content Include="libs\summernote\0.8.11\lang\summernote-id-ID.js" />
+    <Content Include="libs\summernote\0.8.11\lang\summernote-it-IT.js" />
+    <Content Include="libs\summernote\0.8.11\lang\summernote-ja-JP.js" />
+    <Content Include="libs\summernote\0.8.11\lang\summernote-ko-KR.js" />
+    <Content Include="libs\summernote\0.8.11\lang\summernote-lt-LT.js" />
+    <Content Include="libs\summernote\0.8.11\lang\summernote-lt-LV.js" />
+    <Content Include="libs\summernote\0.8.11\lang\summernote-mn-MN.js" />
+    <Content Include="libs\summernote\0.8.11\lang\summernote-nb-NO.js" />
+    <Content Include="libs\summernote\0.8.11\lang\summernote-nl-NL.js" />
+    <Content Include="libs\summernote\0.8.11\lang\summernote-pl-PL.js" />
+    <Content Include="libs\summernote\0.8.11\lang\summernote-pt-BR.js" />
+    <Content Include="libs\summernote\0.8.11\lang\summernote-pt-PT.js" />
+    <Content Include="libs\summernote\0.8.11\lang\summernote-ro-RO.js" />
+    <Content Include="libs\summernote\0.8.11\lang\summernote-ru-RU.js" />
+    <Content Include="libs\summernote\0.8.11\lang\summernote-sk-SK.js" />
+    <Content Include="libs\summernote\0.8.11\lang\summernote-sl-SI.js" />
+    <Content Include="libs\summernote\0.8.11\lang\summernote-sr-RS-Latin.js" />
+    <Content Include="libs\summernote\0.8.11\lang\summernote-sr-RS.js" />
+    <Content Include="libs\summernote\0.8.11\lang\summernote-sv-SE.js" />
+    <Content Include="libs\summernote\0.8.11\lang\summernote-ta-IN.js" />
+    <Content Include="libs\summernote\0.8.11\lang\summernote-th-TH.js" />
+    <Content Include="libs\summernote\0.8.11\lang\summernote-tr-TR.js" />
+    <Content Include="libs\summernote\0.8.11\lang\summernote-uk-UA.js" />
+    <Content Include="libs\summernote\0.8.11\lang\summernote-uz-UZ.js" />
+    <Content Include="libs\summernote\0.8.11\lang\summernote-vi-VN.js" />
+    <Content Include="libs\summernote\0.8.11\lang\summernote-zh-CN.js" />
+    <Content Include="libs\summernote\0.8.11\lang\summernote-zh-TW.js" />
+    <Content Include="libs\summernote\0.8.11\plugin\databasic\summernote-ext-databasic.css" />
+    <Content Include="libs\summernote\0.8.11\plugin\databasic\summernote-ext-databasic.js" />
+    <Content Include="libs\summernote\0.8.11\plugin\hello\summernote-ext-hello.js" />
+    <Content Include="libs\summernote\0.8.11\plugin\specialchars\summernote-ext-specialchars.js" />
+    <Content Include="libs\summernote\0.8.11\summernote-bs4.css" />
+    <Content Include="libs\summernote\0.8.11\summernote-bs4.js" />
+    <Content Include="libs\summernote\0.8.11\summernote-bs4.min.js" />
+    <Content Include="libs\summernote\0.8.11\summernote-lite.css" />
+    <Content Include="libs\summernote\0.8.11\summernote-lite.js" />
+    <Content Include="libs\summernote\0.8.11\summernote-lite.min.js" />
+    <Content Include="libs\summernote\0.8.11\summernote.css" />
+    <Content Include="libs\summernote\0.8.11\summernote.js" />
+    <Content Include="libs\summernote\0.8.11\summernote.min.js" />
+    <Content Include="Blog.aspx" />
+    <Content Include="Mobile.aspx" />
+    <Content Include="NetworkTermsOfUse.aspx" />
+    <Content Include="PrivacyPolicy.aspx" />
+    <Content Include="Scripts\bootstrap-4.1.3.js" />
+    <Content Include="Scripts\jquery-3.3.1.js" />
+    <Content Include="Scripts\summernote-lite.js" />
+    <Content Include="Scripts\summernote-lite.min.js" />
+    <Content Include="Styles\bootstrap-4.1.3.css" />
+    <Content Include="Styles\summernote-lite.css" />
+    <Content Include="templates\newReport.html" />
+    <Content Include="templates\default.html" />
+    <Content Include="templates\userWelcome.html" />
+    <Content Include="templates\newMessage.html" />
+    <Content Include="UC_HustlerArticles.ascx" />
+    <Content Include="UC_BlogArticles.ascx" />
+    <Content Include="UC_UserReport.ascx" />
+    <Content Include="Forum_Comment.aspx" />
+    <Content Include="User_PasswordReset.aspx" />
+    <Content Include="User_ConfirmEmail.aspx" />
+    <Content Include="Messaging.aspx" />
+    <Content Include="pricing.aspx" />
+    <Content Include="Signout.aspx" />
+    <Content Include="ForgottenPassword.aspx" />
+    <Content Include="templates\userPasswordReset.html" />
+    <Content Include="templates\userWelcome_disabled.html" />
+    <Content Include="UC_ObjectListValue.ascx" />
+    <Content Include="UC_UserContact.ascx" />
+    <Content Include="User_Search.aspx" />
+    <Content Include="Project_Search.aspx" />
+    <Content Include="Admin_Project_List.aspx" />
+    <Content Include="Admin_User_List.aspx" />
+    <Content Include="Chan.aspx" />
+    <Content Include="Default.aspx" />
+    <Content Include="Login.aspx" />
+    <Content Include="Project_View.aspx" />
+    <Content Include="Signup.aspx" />
+    <Content Include="Img\button_buynow.gif" />
+    <Content Include="Img\button_signup.gif" />
+    <Content Include="Img\copy logo_slash_home.gif" />
+    <Content Include="Img\feature_yes.gif" />
+    <Content Include="Img\footer_bottom.gif" />
+    <Content Include="Img\footer_top.gif" />
+    <Content Include="Img\header_topnav_account.gif" />
+    <Content Include="Img\header_topnav_home.gif" />
+    <Content Include="Img\icon_edit.gif" />
+    <Content Include="Img\icon_purchase.gif" />
+    <Content Include="Img\icon_stats_graph.gif" />
+    <Content Include="Img\logo_home.gif" />
+    <Content Include="Img\logo_slash_dashboard.gif" />
+    <Content Include="Img\logo_slash_home.gif" />
+    <Content Include="Img\nav_global - Copy.gif" />
+    <Content Include="Img\nav_global.gif" />
+    <Content Include="Img\nav_global_bg_1_dashboard.gif" />
+    <Content Include="Img\nav_global_bg_1_home.gif" />
+    <Content Include="Img\nav_global_bg_2_dashboard.gif" />
+    <Content Include="Img\nav_global_bg_2_home.gif" />
+    <Content Include="Img\plan_bottom.gif" />
+    <Content Include="Img\plan_free_bg.gif" />
+    <Content Include="Img\plan_free_top.gif" />
+    <Content Include="Img\plan_top.gif" />
+    <Content Include="Img\roundbox_alert_bottom.gif" />
+    <Content Include="Img\roundbox_alert_bottom_left.gif" />
+    <Content Include="Img\roundbox_alert_bottom_right.gif" />
+    <Content Include="Img\roundbox_alert_right.gif" />
+    <Content Include="Img\roundbox_alert_top_left.gif" />
+    <Content Include="Img\roundbox_alert_top_right.gif" />
+    <Content Include="Img\roundbox_bottom.gif" />
+    <Content Include="Img\roundbox_bottom_left.gif" />
+    <Content Include="Img\roundbox_bottom_right.gif" />
+    <Content Include="Img\roundbox_right.gif" />
+    <Content Include="Img\roundbox_top_left.gif" />
+    <Content Include="Img\roundbox_top_right.gif" />
+    <Content Include="Img\setting_bg.gif" />
+    <Content Include="Img\setting_top.gif" />
+    <Content Include="Img\setting_top_tabs.gif" />
+    <Content Include="Styles\colorbox.css" />
+    <Content Include="Styles\header.css" />
+    <Content Include="Styles\header_ie.v101.css" />
+    <Content Include="Styles\header_ie.v102.css" />
+    <Content Include="Styles\header_ie6.v100.css" />
+    <Content Include="Styles\header_ie6.v101.css" />
+    <Content Include="Styles\ie6.css" />
+    <Content Include="Styles\ie7.css" />
+    <Content Include="Styles\main.css" />
+    <Content Include="Styles\nav_global_bg_1_dashboard.gif" />
+    <Content Include="Styles\nav_global_bg_1_home.gif" />
+    <Content Include="Styles\Site.css" />
+    <Content Include="Global.asax" />
+    <Content Include="Scripts\jquery-1.4.1-vsdoc.js" />
+    <Content Include="Scripts\jquery-1.4.1.js" />
+    <Content Include="Scripts\jquery-1.4.1.min.js" />
+    <Content Include="Styles\style.css" />
+    <Content Include="Styles\style_ie.v102.css" />
+    <Content Include="Styles\style_ie6.v104.css" />
+    <Content Include="UC_UserProjects.ascx" />
+    <Content Include="User.aspx" />
+    <Content Include="Project_Edit.aspx" />
+    <Content Include="User_Edit.aspx" />
+    <Content Include="User_Welcome.aspx" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="About.aspx.cs">
+      <DependentUpon>About.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="About.aspx.designer.cs">
+      <DependentUpon>About.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Account\ChangePassword.aspx.cs">
+      <DependentUpon>ChangePassword.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Account\ChangePassword.aspx.designer.cs">
+      <DependentUpon>ChangePassword.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Account\ChangePasswordSuccess.aspx.cs">
+      <DependentUpon>ChangePasswordSuccess.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Account\ChangePasswordSuccess.aspx.designer.cs">
+      <DependentUpon>ChangePasswordSuccess.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Account\Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Account\Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Account\Register.aspx.cs">
+      <DependentUpon>Register.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Account\Register.aspx.designer.cs">
+      <DependentUpon>Register.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Hustlers.aspx.cs">
+      <DependentUpon>Hustlers.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Hustlers.aspx.designer.cs">
+      <DependentUpon>Hustlers.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Contact.aspx.cs">
+      <DependentUpon>Contact.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Contact.aspx.designer.cs">
+      <DependentUpon>Contact.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Forum_Thread.aspx.cs">
+      <DependentUpon>Forum_Thread.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Forum_Thread.aspx.designer.cs">
+      <DependentUpon>Forum_Thread.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="HowItWorks.aspx.cs">
+      <DependentUpon>HowItWorks.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="HowItWorks.aspx.designer.cs">
+      <DependentUpon>HowItWorks.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Blog.aspx.cs">
+      <DependentUpon>Blog.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Blog.aspx.designer.cs">
+      <DependentUpon>Blog.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Mobile.aspx.cs">
+      <DependentUpon>Mobile.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Mobile.aspx.designer.cs">
+      <DependentUpon>Mobile.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="NetworkTermsOfUse.aspx.cs">
+      <DependentUpon>NetworkTermsOfUse.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="NetworkTermsOfUse.aspx.designer.cs">
+      <DependentUpon>NetworkTermsOfUse.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PrivacyPolicy.aspx.cs">
+      <DependentUpon>PrivacyPolicy.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PrivacyPolicy.aspx.designer.cs">
+      <DependentUpon>PrivacyPolicy.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UC_HustlerArticles.ascx.cs">
+      <DependentUpon>UC_HustlerArticles.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UC_HustlerArticles.ascx.designer.cs">
+      <DependentUpon>UC_HustlerArticles.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UC_BlogArticles.ascx.cs">
+      <DependentUpon>UC_BlogArticles.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UC_BlogArticles.ascx.designer.cs">
+      <DependentUpon>UC_BlogArticles.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UC_UserReport.ascx.cs">
+      <DependentUpon>UC_UserReport.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UC_UserReport.ascx.designer.cs">
+      <DependentUpon>UC_UserReport.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Forum_Comment.aspx.cs">
+      <DependentUpon>Forum_Comment.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Forum_Comment.aspx.designer.cs">
+      <DependentUpon>Forum_Comment.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="User_PasswordReset.aspx.cs">
+      <DependentUpon>User_PasswordReset.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="User_PasswordReset.aspx.designer.cs">
+      <DependentUpon>User_PasswordReset.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="User_ConfirmEmail.aspx.cs">
+      <DependentUpon>User_ConfirmEmail.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="User_ConfirmEmail.aspx.designer.cs">
+      <DependentUpon>User_ConfirmEmail.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MasterPage_Messages.Master.cs">
+      <DependentUpon>MasterPage_Messages.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MasterPage_Messages.Master.designer.cs">
+      <DependentUpon>MasterPage_Messages.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Messaging.aspx.cs">
+      <DependentUpon>Messaging.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Messaging.aspx.designer.cs">
+      <DependentUpon>Messaging.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Signout.aspx.cs">
+      <DependentUpon>Signout.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Signout.aspx.designer.cs">
+      <DependentUpon>Signout.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="ForgottenPassword.aspx.cs">
+      <DependentUpon>ForgottenPassword.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ForgottenPassword.aspx.designer.cs">
+      <DependentUpon>ForgottenPassword.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="UC_ObjectListValue.ascx.cs">
+      <DependentUpon>UC_ObjectListValue.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UC_ObjectListValue.ascx.designer.cs">
+      <DependentUpon>UC_ObjectListValue.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="UC_UserContact.ascx.cs">
+      <DependentUpon>UC_UserContact.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UC_UserContact.ascx.designer.cs">
+      <DependentUpon>UC_UserContact.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="User_Search.aspx.cs">
+      <DependentUpon>User_Search.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="User_Search.aspx.designer.cs">
+      <DependentUpon>User_Search.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Project_Search.aspx.cs">
+      <DependentUpon>Project_Search.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Project_Search.aspx.designer.cs">
+      <DependentUpon>Project_Search.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_Project_List.aspx.cs">
+      <DependentUpon>Admin_Project_List.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin_Project_List.aspx.designer.cs">
+      <DependentUpon>Admin_Project_List.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Admin_User_List.aspx.cs">
+      <DependentUpon>Admin_User_List.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Admin_User_List.aspx.designer.cs">
+      <DependentUpon>Admin_User_List.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Login.aspx.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Login.aspx.designer.cs">
+      <DependentUpon>Login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Project_View.aspx.cs">
+      <DependentUpon>Project_View.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Project_View.aspx.designer.cs">
+      <DependentUpon>Project_View.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Signup.aspx.cs">
+      <DependentUpon>Signup.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Signup.aspx.designer.cs">
+      <DependentUpon>Signup.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="MasterPage.Master.cs">
+      <DependentUpon>MasterPage.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MasterPage.Master.designer.cs">
+      <DependentUpon>MasterPage.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Site.Master.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Site.Master.designer.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+    </Compile>
+    <Compile Include="UC_UserProjects.ascx.cs">
+      <DependentUpon>UC_UserProjects.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="UC_UserProjects.ascx.designer.cs">
+      <DependentUpon>UC_UserProjects.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="User.aspx.cs">
+      <DependentUpon>User.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="User.aspx.designer.cs">
+      <DependentUpon>User.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Project_Edit.aspx.cs">
+      <DependentUpon>Project_Edit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Project_Edit.aspx.designer.cs">
+      <DependentUpon>Project_Edit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="User_Edit.aspx.cs">
+      <DependentUpon>User_Edit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="User_Edit.aspx.designer.cs">
+      <DependentUpon>User_Edit.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="User_Welcome.aspx.cs">
+      <DependentUpon>User_Welcome.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="User_Welcome.aspx.designer.cs">
+      <DependentUpon>User_Welcome.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Account\Web.config" />
+    <Content Include="Site.Master" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="MasterPage.Master" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="MasterPage_Messages.Master" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Co-founders Netwrok_files\accounting.js.download" />
+    <Content Include="Co-founders Netwrok_files\app_login.js.download" />
+    <Content Include="Co-founders Netwrok_files\jquery.js.download" />
+    <Content Include="Co-founders Netwrok_files\navigation.js.download" />
+    <Content Include="Co-founders Netwrok_files\resetter.js.download" />
+    <Content Include="Co-founders Netwrok_files\screen.js.download" />
+    <Content Include="libs\summernote\0.8.11\font\summernote.eot" />
+    <Content Include="libs\summernote\0.8.11\font\summernote.ttf" />
+    <Content Include="libs\summernote\0.8.11\font\summernote.woff" />
+    <None Include="Properties\PublishProfiles\Publish.pubxml" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\QuantumLibrary\QuantumLibrary.csproj">
+      <Project>{82096b54-7ced-4a4f-8fb0-11e07fb55293}</Project>
+      <Name>QuantumLibrary</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>35330</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

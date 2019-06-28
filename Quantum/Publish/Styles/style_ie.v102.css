@@ -1,0 +1,8 @@
+div.vote-buttons li.yes a:hover { display: block; width: 42px; height: 23px;  background: url(/img/button_vote_yes.gif) no-repeat; }
+div.vote-buttons li.no a:hover { display: block; width: 36px; height: 23px; background: url(/img/button_vote_no.gif) no-repeat; }
+div.vote-buttons li.notsure a:hover { display: block; width: 72px; height: 23px; background: url(/img/button_vote_notsure.gif) no-repeat; }
+
+a.icon-details:hover { background-color: none; opacity: 1; }
+
+a.filtering:hover { display: block; width: 170px; height: 85px; background: url(/img/button_filtering.gif) no-repeat; }
+a.moredomains:hover { display: block; width: 159px; height: 24px; background: url(/img/button_showmoredomains.gif) no-repeat; }

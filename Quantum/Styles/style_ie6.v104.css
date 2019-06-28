@@ -1,0 +1,7 @@
+div#supportbox div#content div#forums-content { margin-right: 0px; }
+div#supportbox { margin-right: 0px; }
+div#press_news { margin-right: 0px; }
+div#sidebar { margin-right: 0px; }
+
+/* fix for the subnav 12/09 */
+.subnavlinks-top { overflow: hidden; }

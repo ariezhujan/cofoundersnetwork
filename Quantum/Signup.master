@@ -1,0 +1,106 @@
+<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Blog.master.cs" %>
+
+<!DOCTYPE html>
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="description" content="">
+<meta name="author" content="">
+<title>Co-Founder's Network</title>
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+<link href="./Co-founders Netwrok_files/bootstrap-4.1.3.css" rel="stylesheet">
+<link href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+
+</head>
+	<body style="overflow-x: hidden;">
+        <form id="form2" runat="server">
+	<!-- Header -->
+
+<div style="z-index: 1000; position: fixed; top: 0px; left: 0px; display: block; width: 100%; height: 65px; background: #fff; padding: 10px;">
+	
+	<div class="row" style="position: relative;">
+		<div class="col-md-3 col-sm-3 col-xs-6">
+			<a href="default.aspx"><img src="./Co-founders Netwrok_files/logo.png" style="height: 38px;"></a>
+		</div>
+			<div style="clear: both;"></div>
+		</div>
+               
+	</div>
+</div>
+
+
+
+
+
+
+    <br /><br /><br /><br />
+    <asp:contentplaceholder id="Content" runat="server"></asp:contentplaceholder>
+	<br /><br /><br /><br />
+	
+	<div style="background-color: #34a4ae;border-radius: 50%;z-index: 1000;position: fixed;bottom: 20px;right: 20px;width: 65px; height: 65px;cursor: pointer;color: white;margin: auto;" id="buttonChat">
+			<div style="position: relative;" id="closeChat">
+				<i class="fas fa-comment" style="font-size: 40px;margin-left: 13px;margin-top: 13px;"></i>
+			</div>
+			<div style="position: relative;" id="openChat">
+				<i class="fas fa-comments" style="font-size: 40px;margin-left: 9px;margin-top: 12px;"></i>
+			</div>
+		</div>
+		<div style="border:solid 1px #34a4ae;background-color: #34a4ae; border-radius: 2%;z-index: 1000;position: fixed;bottom: 90px;right: 20px;width: 300px; height: 400px;margin: auto;" id="formChat">
+			<div style="width: 100%;padding: 10px;">
+				<h4>Let's start chat with us</h4>
+				<div style="position: relative;background-color: white;color: black;height: 300px;margin-bottom: 8px;border-radius: 2%;">
+					<div style="position: absolute;bottom: 10px;right: 10px;border-radius: 3px;background-color: #cecece;padding: 3px;">Hi, i'm Andreas, can i help you?</div>
+				</div>
+				<div class="form-inline">
+					<input type="text" id="chatText" placeholder="Just type here" class="form-control" style="width: 84%"></input>
+					<button class="btn"><i class="fas fa-paper-plane"></i></button>
+				</div>				
+			</div>
+		</div>
+	</div>
+	<script src="./Co-founders Netwrok_files/jquery-3.3.1.js"></script>
+	<script src="./Co-founders Netwrok_files/bootstrap-4.1.3.js"></script>
+	<!-- <script src="./Co-founders Netwrok_files/screen.js.download"></script>
+	<script src="./Co-founders Netwrok_files/navigation.js.download"></script>
+	<script src="./Co-founders Netwrok_files/resetter.js.download"></script>
+	<script src="./Co-founders Netwrok_files/accounting.js.download"></script> -->
+	
+	<!-- <script>
+		var assign_url = "https://cofoundersnetwork.com/Services";
+	</script> -->
+	
+	<!-- <script src="./Co-founders Netwrok_files/app_login.js.download"></script>  --> 
+            
+    <script type="text/javascript">
+    	var chatOpen = 0;
+    	$("#formChat").hide();
+		$("#closeChat").show();
+		$("#openChat").hide();
+    	$("#buttonChat").click(function(){
+    		if (chatOpen == 0) {//if chat form is close, then open chat form
+    			chatOpen = 1;
+    			$("#formChat").show();
+    			$("#closeChat").hide();
+    			$("#openChat").show();
+    		}else{//if chat form is open, then close chat form
+    			chatOpen = 0;
+    			$("#formChat").hide();
+    			$("#closeChat").show();
+    			$("#openChat").hide();
+    		}
+    	});
+    	$("#app_footer_nav_contact").click(function(){
+			chatOpen = 1;
+			$("#formChat").show();
+			$("#closeChat").hide();
+			$("#openChat").show();
+    	});
+    	$("#navContact").click(function(){
+			chatOpen = 1;
+			$("#formChat").show();
+			$("#closeChat").hide();
+			$("#openChat").show();
+    	});
+    </script>
+    </form>  
+</body>
+</html>
